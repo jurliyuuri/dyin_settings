@@ -1,6 +1,9 @@
-\documentclass[uplatex,a4paper]{jsarticle}
+\documentclass[a4paper,xelatex,ja=standard]{bxjsarticle}
 
 \usepackage{amsmath, amssymb}
+\usepackage{hyperref}
+
+\hypersetup{pdfborder={0 0 0},bookmarksopen=true}
 
 \begin{document}
 
@@ -38,17 +41,21 @@
 \subsection{サラスで話される言語}
 
 \subsection{サラスの種族構成}
-サラスの種族構成は表のようになっている．
+サラスの種族構成は表\ref{calass_species}のようになっている．
 \begin{table}[htbp]
- \begin{tabular}{llr}
-  種族 & 人種 & 比率 \\ \hline \hline
-  ネートニアー & サラス人 & 59.2\% \\
+ \begin{center}
+  \caption{サラスにおける種族構成}
+  \label{calass_species}
+  \begin{tabular}{llr}
+   種族 & 人種 & 比率 \\ \hline \hline
+   ネートニアー & サラス人 & 59.2\% \\
    & ヴィッセンスタンツ人 & 18.3\% \\
    & その他 & 7.4\% \\ \hline
-  人型ラーデミン & サラス人 & 9.6\% \\
+   人型ラーデミン & サラス人 & 9.6\% \\
    & その他 & 2.7\% \\ \hline
-  その他 & & 2.8\%
+   その他 & & 2.8\%
  \end{tabular}
+\end{center}
 \end{table}
 
 \end{document}

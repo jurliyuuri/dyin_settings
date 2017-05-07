@@ -1,15 +1,15 @@
-\documentclass[uplatex,a4paper]{jsarticle}
+\documentclass[a4paper,xelatex,ja=standard]{bxjsarticle}
 
-\usepackage[prefernoncjk]{pxcjkcat}
-\usepackage[utf8]{inputenc}
-\usepackage[T2A]{fontenc}
-\usepackage{tipa}
-\usepackage{tipx}
 \usepackage{amsmath, amssymb}
 \usepackage{ascmac}
+\usepackage{hyperref}
+\hypersetup{pdfborder={0 0 0},bookmarksopen=true}
+
+\usepackage{liparxe}
+\font\charis="Charis SIL"
+%\font\liparxe="Cirlxarli_liparxe:1"
 
 \begin{document}
-
 {
 \title{\Huge 現代ヴィッセンスタンツ語文法}
 \author{Skarsna.haltxeafis/渡久地信之}
@@ -37,30 +37,38 @@
 \section{音韻}
 \subsection{基本音韻}
 現代ヴィッセンスタンツ語の音韻は次のようになっている．
+
 \begin{table}[htbp]
 \begin{center}
  \caption{現代ヴィッセンスタンツ語の音韻表}
  \label{vis_phonology}
- \begin{tabular}[tb]{|c||c|c|c|c|c|c|c|c|c|c|c|c|c|c|} \hline
-  転写 & a & b & c & d & dz & e & f & g & h & i & j & k & l & m \\ \hline
-  音素 & a & b & s & d & \textyogh & \textepsilon & f & \textscriptg & x & i & j & k & l & m \\ \hline \hline
-  転写 & n & o & p & r  & s & t & tz & u & v & w & x & y & z \\ \cline{1-14}
-  音素 & n & \textopeno & p & r & z & t & \texttslig & u & v & w & \textesh & y & \texttslig \\ \cline{1-14}
+ \begin{tabular}[tb]{|c||c|c|c|c|c|c|c|c|c|c|c|c|c|} \hline
+  リパーシェ & \liparxea & \liparxeb & \liparxec & \liparxed & \liparxedz & \liparxee & \liparxef
+             & \liparxeg & \liparxeh & \liparxei & \liparxej & \liparxek & \liparxel \\ \hline
+  転写 & a & b & c & d & dz & e & f & g & h & i & j & k & l \\ \hline
+  音素 & \charis a & \charis b & \charis s & \charis d & \charis \textyogh & \charis \textepsilon & \charis f
+       & \charis \textscriptg & \charis x & \charis i & \charis j & \charis k & \charis l \\ \hline \hline
+  リパーシェ & \liparxem & \liparxen & \liparxeo & \liparxep & \liparxer & \liparxes & \liparxet
+             & \liparxeu & \liparxev & \liparxew & \liparxex & \liparxey & \liparxez \\ \hline
+  転写 & m & n & o & p & r  & s & t & u & v & w & x & y & z \\ \hline
+  音素 & \charis m & \charis n & \charis \textopeno & \charis p & \charis r & \charis z & \charis t
+       & \charis u & \charis v & \charis w & \charis \textesh & \charis y & \charis \texttslig \\ \hline
  \end{tabular}
 \end{center}
 \end{table}
+以後，リパーシェ表記にて記述する．
 
 \subsection{異音}
 表\ref{vis_phonology}に音韻を示したが，実際には次のような自由異音が認められる．
 \begin{itemize}
- \item a: \textscripta
- \item e: e
- \item g: \textgamma, \textinvscr, \textscr
- \item h: h,\textchi
- \item i: \i, \textbari
- \item r: \textfishhookr, \textturnr
- \item u: \textbaru
- \item x: \textctc
+ \item \liparxea: {\charis \textscripta}
+ \item \liparxee: {\charis e}
+ \item \liparxeg: {\charis \textgamma, \textinvscr, \textscr}
+ \item \liparxeh: {\charis h,\textchi}
+ \item \liparxei: {\charis \i, \textbari}
+ \item \liparxer: {\charis \textfishhookr, \textturnr}
+ \item \liparxeu: {\charis \textbaru}
+ \item \liparxex: {\charis \textctc}
 \end{itemize}
 
 \section{音節}
@@ -68,11 +76,11 @@
 子音及び母音が3つ以上連続する単語は存在しない．
 次に実在の単語にて例に示す．
 \begin{itemize}
- \item e: …に (V)
- \item nys: 女性 (CVC)
- \item gled: 黒い (CCVC)
- \item bork: 置く (CVCC)
- \item zoine: 住居 (CVV-CV)
+ \item \liparxe{e}: …に (V)
+ \item \liparxe{nys}: 女性 (CVC)
+ \item \liparxe{gled}: 黒い (CCVC)
+ \item \liparxe{boRk}: 置く (CVCC)
+ \item \liparxe{zoine}: 住居 (CVV-CV)
 \end{itemize}
 なお外来語由来の単語についてはこの限りではない．
 
@@ -91,25 +99,25 @@
 \subsection{語順}
 現代ヴィッセンスタンツ語の語順は平叙文の場合にはSVOである．
 \begin{enumerate}
- \item cai hatro kacce. 「私は本を読む．」 
+ \item \liparxe{cai hatRo kacce.} 「私は本を読む．」 
 \end{enumerate}
 
 疑問文の場合，次のようになる．
 \begin{enumerate}
- \item hatro tif kacce? 「あなたは本を読むか？」 \label{enum_interrog1}
- \item tif hatro kacce na? (同上) \label{enum_interrog2}
+ \item \liparxe{hatRo tif kacce?} 「あなたは本を読むか？」 \label{enum_interrog1}
+ \item \liparxe{tif hatRo kacce na?} (同上) \label{enum_interrog2}
 \end{enumerate}
 正書法では項\ref{enum_interrog1}のような記述が望ましいとされているが，
 日常会語などでは項\ref{enum_interrog2}のようなサラス語由来の言い回しも使用される．
 
-否定文の場合，次のようなSV ni Oの形式となる．
+否定文の場合，次のようなSV \liparxe{ni} Oの形式となる．
 \begin{enumerate}
- \item cai hatro ni kacce. 「私は本を読まない．」
+ \item \liparxe{cai hatRo ni kacce.} 「私は本を読まない．」
 \end{enumerate}
 ただし所有文に関しては次のように2つの形式を取りうる．
 \begin{enumerate}
- \item cai vooz ni kacce. 「私は本を持っていない．」 \label{ni_neg}
- \item cai vooz kacce met. 「私は本を持っていない．」\label{met_neg}
+ \item \liparxe{cai vooz ni kacce.} 「私は本を持っていない．」 \label{ni_neg}
+ \item \liparxe{cai vooz kacce met.} 「私は本を持っていない．」\label{met_neg}
 \end{enumerate}
 項\ref{met_neg}は直訳すると「私は0つの本を持っている．」となる．
 
@@ -119,8 +127,8 @@
 
 このような使い分けは，正書法では所有文にのみ現われるものだが口語では存在文にも確認されている．
 \begin{enumerate}
- \item fer gel ni e deef. 「彼(女)は家にいない．」\label{ni_neg_gel}
- \item fer gel e deef nict. 「彼(女)は家にいない．」\label{nict_neg_gel}
+ \item \liparxe{feR gel ni e deef.} 「彼(女)は家にいない．」\label{ni_neg_gel}
+ \item \liparxe{feR gel e deef nict.} 「彼(女)は家にいない．」\label{nict_neg_gel}
 \end{enumerate}
 項\ref{nict_neg_gel}は直訳すると「彼(女)は家ではないところにいる．」となる．
 
@@ -132,15 +140,17 @@
 現代ヴィッセンスタンツ語の代名詞には性別による違いや活用は存在せず，単複の区別のみが存在する．
 
 単数形に関しては，古ヴィッセンスタンツ語の時代からあまり変化していない．
-一方で複数形に関しては，元々単数形にiweを修飾することで表していたものが時代を下るにつれて合成語化し，
+一方で複数形に関しては，元々単数形に\liparxe{iwe}を修飾することで表していたものが時代を下るにつれて合成語化し，
 その後発音変化等により綴りが変化した結果，単数形が活用しているように見える形となっている．
 \begin{screen}
  \begin{center}
-  tif iwe $\xrightarrow{\text{合成語化}}$ tifiwe $\xrightarrow{\text{綴りの変化}}$ tifie \\
-  （tif「あなた」，iwe 「複数を表す形容詞」）
+  \begin{liparxecc}
+   tif iwe $\xrightarrow{\text{合成語化}}$ tifiwe $\xrightarrow{\text{綴りの変化}}$ tifie \\
+   （tif「あなた」，iwe「複数を表す形容詞」）
+  \end{liparxecc}
  \end{center}
 \end{screen}
-このような語形の変化は特にiweのような付属語的な形容詞において顕著であるため「iwe変化」と呼称されている．
+このような語形の変化は特に\liparxe{iwe}のような付属語的な形容詞において顕著であるため「\liparxe{iwe}変化」と呼称されている．
 
 \subsubsection{人称代名詞}
 現代ヴィッセンスタンツ語の人称代名詞は表\ref{vic_human_pronoum}のようになっている．
@@ -148,11 +158,13 @@
  \caption{現代ヴィッセンスタンツ語の人称代名詞表}
  \label{vic_human_pronoum}
  \begin{center}
-  \begin{tabular}{|c||c|c|c|} \hline
-   & 一人称 & 二人称 & 三人称 \\ \hline \hline
-   単数 & cai & tif & fer \\ \hline
-   複数 & caiwe & tifie & feriwe \\ \hline
-  \end{tabular}
+  \begin{liparxecc}
+   \begin{tabular}{|c||c|c|c|} \hline
+    & 一人称 & 二人称 & 三人称 \\ \hline \hline
+    単数 & cai & tif & feR \\ \hline
+    複数 & caiwe & tifie & feRiwe \\ \hline
+   \end{tabular}
+  \end{liparxecc} 
  \end{center}
 \end{table}
 
@@ -162,11 +174,13 @@
  \caption{現代ヴィッセンスタンツ語の指示代名詞表}
  \label{vic_obj_pronoum}
  \begin{center}
-  \begin{tabular}{|c||c|c|c|} \hline
-   & 近称 & 遠称 & 示称 \\ \hline \hline
-   単数 & hom & dul & xip \\ \hline
-   複数 & homie & duliwe & xipie \\ \hline
-  \end{tabular}
+  \begin{liparxecc}
+   \begin{tabular}{|c||c|c|c|} \hline
+    & 近称 & 遠称 & 示称 \\ \hline \hline
+    単数 & hom & dul & xip \\ \hline
+    複数 & homie & duliwe & xipie \\ \hline
+   \end{tabular}
+  \end{liparxecc}
  \end{center}
 \end{table}
 
@@ -175,12 +189,14 @@
 
 \subsection{名詞}
 ヴィッセンスタンツ語において名詞は孤立語的であるが，
-一部の単語においては代名詞で起きたようなiwe変化が見られる．
-\begin{itembox}[l]{iwe変化の一例}
- \begin{center}
-  nys $\xrightarrow{\text{複数化}}$ nyswe (nys:「女性」) \\
-  galpe $\xrightarrow{\text{複数化}}$ galpye （galpe:「子供」）
- \end{center}
+一部の単語においては代名詞で起きたような\liparxe{iwe}変化が見られる．
+\begin{itembox}[l]{\liparxe{iwe}変化の一例}
+ \begin{liparxecc}
+   \begin{center}
+    nys $\xrightarrow{\text{複数化}}$ nyswe (nys\text:「女性」) \\
+    galpe $\xrightarrow{\text{複数化}}$ galpye （galpe:「子供」）
+   \end{center}
+ \end{liparxecc}
 \end{itembox}
 
 以下未作成
