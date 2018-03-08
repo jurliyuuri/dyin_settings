@@ -1,9 +1,10 @@
-\documentclass[a4paper,xelatex,ja=standard]{bxjsarticle}
-
+\documentclass[11pt,a4j]{jarticle}
+\setlength{\textwidth}{170mm}
+\setlength{\evensidemargin}{-5mm}
+\setlength{\oddsidemargin}{-5mm}
+\usepackage{graphicx}
 \usepackage{amsmath, amssymb}
-\usepackage{hyperref}
-
-\hypersetup{pdfborder={0 0 0},bookmarksopen=true}
+\usepackage{latexsym}
 
 \begin{document}
 
@@ -13,19 +14,10 @@
 \date{2017年}
 }
 \maketitle
+
 \thispagestyle{empty}
-
-% 表紙のページのページ数を消して次からカウントさせるために
-% 目次のページの番号をromanにすることで対処している
-% 正しいやり方を見付け次第修正が必要かもしれない
-
 \newpage
-
-\pagenumbering{roman}
-\tableofcontents
-
-\newpage
-\pagenumbering{arabic}
+\setcounter{page}{1}
 
 \section{概要}
 本論文ではデュインのサラス地方に居住しているサラス人(現地名：``salasem nimut'')の起源について考察する．

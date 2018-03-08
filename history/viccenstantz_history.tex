@@ -1,9 +1,10 @@
-\documentclass[a4paper,xelatex,ja=standard]{bxjsarticle}
-
+\documentclass[11pt,a4j]{jarticle}
+\setlength{\textwidth}{170mm}
+\setlength{\evensidemargin}{-5mm}
+\setlength{\oddsidemargin}{-5mm}
+\usepackage{graphicx}
 \usepackage{amsmath, amssymb}
-\usepackage{hyperref}
-
-\hypersetup{pdfborder={0 0 0},bookmarksopen=true}
+\usepackage{latexsym}
 
 \begin{document}
 
@@ -13,19 +14,15 @@
 \date{2017年}
 }
 \maketitle
+
 \thispagestyle{empty}
-
-% 表紙のページのページ数を消して次からカウントさせるために
-% 目次のページの番号をromanにすることで対処している
-% 正しいやり方を見付け次第修正が必要かもしれない
-
 \newpage
 
-\pagenumbering{roman}
 \tableofcontents
 
+\thispagestyle{empty}
 \newpage
-\pagenumbering{arabic}
+\setcounter{page}{1}
 
 \section{概要}
 本資料ではヴィッセンスタンツ史概論を扱う．\\
@@ -39,9 +36,25 @@
 
 \section{建国期}
 \subsection{建国初期}
-ヴィッセンスタンツ人の祖先は，大陸ヴィッセンスタンツの東に存在する暗い森よりもさらに東側から来た民族である．
-おおよそphil.120頃には，現在のデイシェスのアルマート川河口東側付近にヴィッセンスタンツ王国を
-建国しデイシェス周辺を統治していた．
+\subsubsection{ヴィッセンスタンツ人とファーシュヴァーク人}
+ヴィッセンスタンツ(viccenstantz)人の祖先は，大陸ヴィッセンスタンツの東に存在する暗い森よりもさらに東側から来た民族とされている．
+phil.120頃には，現在のデイシェス(deixes)のアルマート(almart)川河口東側付近にヴィッセンスタンツ王国を建国し
+デイシェス周辺を統治していたことが分かっている．
+ヴィッセンスタンツ初代国王のエヴィルフィーア(evirfiia)は王族領を除く領土を直下に属する貴族に分割して統治させ，代わりに税を納めさせていた．
 
+一方でファーシュヴァーク(farxvark)人の祖先は，南方の大陸から渡ってきた民族とされている．
+phil.150頃には，現在のサニスからイェテザル・ポルトジャールの南部付近で氏族ごとに村を構成し生活していたと考えられており，
+何か有事がある場合にはそれぞれの村の長が集まり会議を行い決定していたとされている．
+
+\subsubsection{ヨサトカソドの侵攻}
+phil.250頃，ヨサトカソド(jocatokacodo)村の長であるワカテカソド(wakatekacodo)が議会を無視し他の村へ侵掠を開始する．(ヨサトカソドの侵攻) \\
+この際，ワカテカソドは当時サニス北部を統治していた領主のファイルフィーア(fairfiia)にいくらかの土地を差し出すことを条件に
+戦争への協力要請を取り付ける交渉を行なっている．
+この侵掠の結果，ワカテカソドはエヴィルフィーア王から功績を認められヴィッセンスタンツ王国のサニス南部を治める領主として貴族階級に認められ，
+譲渡した一部の村や土地を除きサニス南部に存在した村を従えることとなる．
+
+一方，ワカテカソドの侵掠に危機を感じたイェテザル・ポルトジャール側の族長達は侵掠を防ぐために集結し，ワラシャリト(waraxalito)国を建国した．\\
+ワラシャリト国は村の直接民主制による議決から上部に決定を上げる直接民主制国家である一方で，
+村の内部のことについては国法にふれない限り独自に取り決めを行うことができる高い地方分権性も存在したことが分かっている．
 
 \end{document}
