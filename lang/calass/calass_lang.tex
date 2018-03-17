@@ -1,0 +1,112 @@
+\documentclass[uplatex]{jsarticle}
+\setlength{\textwidth}{170mm}
+\setlength{\evensidemargin}{-5mm}
+\setlength{\oddsidemargin}{-5mm}
+\usepackage{graphicx}
+\usepackage{amsmath, amssymb}
+\usepackage{latexsym}
+\usepackage[dvipdfmx]{hyperref}
+\hypersetup{pdfborder={0 0 0},bookmarksopen=true}
+\usepackage{tipa,tipx}
+
+\begin{document}
+
+{
+\title{\Huge サラス語文法書}
+\author{skarsna.haltxeafis/渡久地信之}
+\date{2018年}
+}
+\maketitle
+
+\thispagestyle{empty}
+\newpage
+
+\tableofcontents
+
+\thispagestyle{empty}
+\newpage
+\setcounter{page}{1}
+
+\section*{始めに}
+サラス語とは，デュインのサラス地方で使用される言語である．
+この言語はデュインの二大語派であるヴィッセンスタンツ語派ともファーシュバーク語派とも近縁ではない言語であり，
+ヴィッセンスタンツ人やファーシュバーク人がこの地に訪れる以前の原住民の言語を祖語としているのではないかとも言われている．
+
+この文法書はそのサラス語を解説したものであるが，筆者はあまり解説が上手くない部分もあるであろう．
+出来る限り分かりやすく解説するつもりであるが，その点について素人の作成したものとしてご容赦いただきたいと思う．
+
+\newpage
+
+\part{サラス語文法基礎}
+\section{転写と発音}
+サラス語は現在ではリパーシェを用いて表記される．
+この文法書では入力の容易性などによりリパーシェではなく転写を使用する．
+転写の一覧を次に示す．
+\begin{table}[htpb]
+\begin{center}
+ \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|} \hline
+  転写 & a & e           & i & o & u & p & b & f & v & m \\ \hline
+  音価 & a & \textipa{E} & i & o & u & p & b & f & v & m \\ \hline \hline
+  転写 & t & d & c & s & n & z          & x           & dz          & r & l \\ \hline
+  音価 & t & d & s & z & n & \texttslig & \textipa{S} & \textipa{Z} & r & l \\ \hline \hline
+  転写 & k & g            & h & j & w & & & & & \\ \hline
+  音価 & k & \textscriptg & x & j & w & & & & & \\ \hline
+ \end{tabular}
+\end{center}
+\end{table}
+
+\section{品詞}
+サラス語には次の品詞がある．
+\begin{itemize}
+ \item 名詞
+ \begin{itemize}
+  \item 一般名詞
+  \item 固有名詞
+ \end{itemize} 
+ \item 代名詞
+ \begin{itemize}
+  \item 人称代名詞
+  \item 指示代名詞
+ \end{itemize} 
+ \item 動詞
+ \begin{itemize}
+  \item 自動詞
+  \item 他動詞
+ \end{itemize} 
+ \item 形容詞
+ \item 数詞
+ \item 副詞
+ \item 前置詞
+ \item 接続詞
+\end{itemize}
+
+\section{語順}
+サラス語は基本語順はVSOCまたはSVOCとなる．
+なお，SVOCの場合においては主語は属格となる．（名詞の格変化については\ref{noum_case}で説明する．）
+\begin{itemize}
+ \item elma do xuiles. 「私は本を読む．」
+ \item doh elma xuiles. （同上） 
+\end{itemize}
+
+サラス語では動詞の前には主題を配置することが可能となっている．
+この時主語を主題とする場合には主格となる．
+\begin{itemize}
+ \item xuiles elma do. 「『本を』私は読む．」
+ \item do elma xuiles. 「『私は』本を読む．」
+\end{itemize}
+
+\section{名詞の格変化}
+\label{noum_case}
+サラス語の名詞には性は存在しないが格変化は存在し，主に接尾辞を使用した格変化を行う．
+格変化の種類を次に示す．
+\begin{table}[htbp]
+ \begin{center}
+  \begin{tabular}[tb]{|c|c|c|c|c|c|c|} \hline
+   格     & 主格 & 属格  & 対格  & 与格  & 所格  & 様格   \\ \hline \hline 
+   接尾辞 & -    & -(a)h & -(e)s & -(e)n & -(o)k & -v(o)- \\ \hline
+  \end{tabular}
+ \end{center}
+\end{table} \\
+様格のみ接中辞となっており，最後の音節の母音の後に挿入される．
+
+\end{document}
