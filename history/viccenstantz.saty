@@ -1,0 +1,58 @@
+@require: stdjabook
+@require: code
+@require: itemize
+@require: tabular
+@require: proof
+@import: liparxe
+
+document (|
+  title = {ヴィッセンスタンツ史概論};
+  author = {skarsna.haltxeafis / 渡久地信之};
+  show-title = true;
+  show-toc = true;
+|) '<
+  +section{概要} <
+    +p{
+      本資料ではヴィッセンスタンツ史の概論を扱う．
+      ヴィッセンスタンツ史は現代までに大きく分けて次の4つに分けることが出来るとされている．
+    }
+    +listing{
+      * 建国期 (phil.120 頃 - phil.430 頃)
+      * 統治期 (phil.430 頃 - phil.800 頃)
+      * \flanpaen{xelken} 支配期 (phil.800 頃 - phil.2003/2月)
+      * 連邦期 (phil.2003/2 月 - 現代)
+    }
+  >
+  +section{建国期(初期)} <
+    +subsection{ヴィッセンスタンツ人とファーシュヴァーク人} <
+      +p{
+        ヴィッセンスタンツ(\flanpaen{viccenstantz}, viccenstantz)人の祖先は，大陸大界センスタンツの東に存在する暗い森よりもさらに東側から来た民族とされている．
+        phil.120頃には，現在のデイシェス(\flanpaen{deixes}, deixes)のアルマート(\flanpaen{almart}, almart)川河口東側付近に
+        ヴィッセンスタンツ王国を建国しデイシェス周辺を統治していたことが分かっている．
+        ヴィッセンスタンツ初代国王のエヴィルフィーア(\flanpaen{eviRfiia}, evirfiia)は王族領を除く領土を直下に属する貴族に分割して統治させ，代わりに税を納めさせていた．
+      }
+      +p{
+        一方で，ファーシュヴァーク(\flanpaen{farxvark}, farxvark)人の祖先は，南方の大陸から渡ってきた民族とされている．
+        phil.150頃にへ，現在のサニス(\flanpaen{canis}, canis)からイェテザル・ポルトジャール(\flanpaen{jetesal poltDarl}, jetesal poltdzarl)の南部付近で氏族ごとに村を構成し生活していたと考えられており，
+        何か有事がある場合にはそれぞれの村の長が集まり会議を行い決定していたとされている．
+      }
+    >
+    +subsection{ヨサトカソドの侵攻} <
+      +p{
+        pil.250頃，ヨサトカソド(\flanpaen{jocatokacodo}, jocatokacodo)村の長であるワカテカソド(\flanpaen{wakatekacodo}, wakatekacodo)が
+        議会を無視し他の村への侵掠を開始した．(ヨサトカソドの侵攻)
+      }
+      +pn{
+        この際，ワカテカソドは当時サニス北部を統治していた領主のファイルフィーア(\flanpaen{faiRfiia}, fairfiia)に
+        いくらかの土地を差し出すことを条件に戦争への協力要請を取り付ける交渉を行なっている．
+        この侵掠の結果，ワカテカソドはエヴィルフィーア王から功績を認められヴィッセンスタンツ王国のサニス南部を治める領主として貴族階級に想められ，
+        譲渡した一部の村や土地を除きサニス南部に存在した村を従えることとなる．
+      }
+      +p{
+        一方で，ワカテカソドの侵掠に危機を感じたイェテザル・ポルトジャール側の族長達は侵掠を防ぐために集結し，ワラシャリト(\flanpaen{waraxalito}, waraxalito)国を建国した．
+        ワラシャトリ国は村の直接民主制による議決から上部に決定を上げる直接民主制国家である一方で，
+        村の内部のことについては国法にふれない限り独自に取り決めを行うことができる高い地方分権性も存在していたことが分かっている．
+      }
+    >
+  >
+>

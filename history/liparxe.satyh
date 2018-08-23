@@ -1,0 +1,13 @@
+@require: stdjabook
+
+let-inline ctx \flanpaen inner =
+  let ctx-liparxe =
+    ctx |> StdJaBook.set-latin-font (`flanpaen-liparxe` , 0.875 , 0.)
+  in
+    read-inline ctx-liparxe inner
+
+let-inline ctx \helzar inner =
+  let ctx-liparxe =
+    ctx |> StdJaBook.set-latin-font (`helzar-liparxe` , 1.125 , 0.)
+  in
+    read-inline ctx-liparxe inner
