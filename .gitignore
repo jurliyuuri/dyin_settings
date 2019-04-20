@@ -1,8 +1,2 @@
-*.aux
-*.dvi
-*.log
-*.toc
-*.out
-*.pdf
 private
 .gitignore
