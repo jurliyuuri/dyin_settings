@@ -481,8 +481,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="2727.2607"
-     inkscape:cy="2203.4192"
+     inkscape:cx="2900.0159"
+     inkscape:cy="2144.5433"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="false"
@@ -2012,7 +2012,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="その他メモ"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#fc0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5124)"
        d="m 2850,908 27,-75"
@@ -2078,12 +2079,12 @@
          y="679.14349"
          id="tspan8320">deixes東部から沿岸地帯経由</tspan></text>
     <ellipse
-       style="fill:none;fill-opacity:1;stroke:#fc0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#fc0000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path7557"
-       cx="2807"
-       cy="707"
-       rx="19.410999"
-       ry="19" />
+       cx="2801.8972"
+       cy="710"
+       rx="14.558249"
+       ry="14.25" />
     <ellipse
        style="display:inline;fill:none;fill-opacity:1;stroke:#fc0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path7557-7"
@@ -2118,13 +2119,13 @@
        sodipodi:nodetypes="sssssss" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2788.0783,675.2422 c -11.9274,7.58411 -11.5925,18.51498 -8.3226,39.11667 3.0477,19.20185 18.036,52.44046 41.1724,51.60547 15.0493,-0.54313 0.029,-25.04707 11.0655,-36.67603 27.5728,-29.05344 12.7295,-38.63024 8.5016,-52.34366 -6.6443,-21.55135 -36.3325,-11.92983 -52.4169,-1.70245 z"
+       d="m 2788.0783,675.2422 c -11.9274,7.58411 -11.5925,18.51498 -8.3226,39.11667 3.0477,19.20185 28.036,22.94046 39.6724,48.60547 6.2184,13.71523 7.362,-22.20451 11.5655,-37.67603 8.5728,-31.55344 13.7295,-34.63024 9.5016,-48.34366 -6.6443,-21.55135 -36.3325,-11.92983 -52.4169,-1.70245 z"
        id="path7829-8-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ssssss" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2873.4281,655.03774 c 12.304,10.17309 11.2037,14.57377 2.5124,16.72158 -7.1152,1.75834 -22.3708,1.33476 -18.6626,9.00052 8.7314,18.05014 37.4368,5.7233 48.0655,4.324 21.5927,-2.8427 33.3267,-13.4123 28.5835,-34.6685 -4.2933,-19.2401 -7.0058,-16.65271 -9.0819,-31.6751 -0.9814,-7.10094 -12.7475,-8.57119 -24.7732,-11.08371 -8.5965,-1.79605 -16.8367,-7.5477 -23.6064,-0.57849 -9.675,9.96009 1.3457,17.49089 1.2417,25.89359 -0.085,6.87058 -13.2419,14.65552 -4.279,22.06611 z"
+       d="m 2857.1781,636.53774 c -5.0936,8.8223 6.1356,10.59866 -2.7376,15.72158 -6.3473,3.66462 -0.8708,20.83476 2.8374,28.50052 8.7314,18.05014 37.4368,5.7233 48.0655,4.324 21.5927,-2.8427 33.3267,-13.4123 28.5835,-34.6685 -4.2933,-19.2401 -7.0058,-16.65271 -9.0819,-31.6751 -0.9814,-7.10094 -9.7475,-8.07119 -21.7732,-10.58371 -8.5965,-1.79605 -29.2484,-5.49271 -34.1064,2.92151 -6.5619,11.36547 14.8049,11.3918 8.7417,21.89359 -11.6285,20.14114 -14.7141,-6.50552 -20.529,3.56611 z"
        id="path7829-84"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ssssssssss" />
@@ -2144,10 +2145,10 @@
          id="tspan8295">先住地範囲(p250)</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2856,793 c -11.5594,-5.92735 -5.9297,-35.03903 -20.2883,-51.88134 -11.1367,-13.06317 3.0334,-14.76978 4.3057,-24.46866 2.1238,-16.18914 19.6676,-16.4645 30.9826,-4.69297 6.9437,7.2238 28.1027,30.41974 12,39.04297 -20.1583,10.79503 -1.1055,55.278 -27,42 z"
+       d="m 2851.5,798.5 c -6.8989,-3.53759 -3.6751,-16.33343 -11.732,-28.85046 -4.6712,-7.25692 1.7327,-21.74048 -4.0563,-28.53088 -11.1367,-13.06314 -7.4667,-18.26979 -6.1943,-27.96866 0.9464,-7.21409 8.6396,-6.5613 14.0062,-12.05125 11.7736,-12.04399 21.2035,-1.66771 27.4764,4.85828 6.9437,7.22383 34.1027,39.41974 18,48.04297 -20.1583,10.79503 -11.6055,57.778 -37.5,44.5 z"
        id="path8297"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssssss" />
+       sodipodi:nodetypes="ssssssss" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2164,7 +2165,7 @@
          id="tspan8295-0">先住地範囲(p250)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="3011"
        y="558"
        id="text8328"><tspan
@@ -2207,6 +2208,12 @@
          sodipodi:role="line"
          x="2524.6824"
          y="755.39111"
-         id="tspan8330-3-9">(p150,p250)</tspan></text>
+         id="tspan8330-3-9">(p150,p200,p250)</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2790.8883,691.82647 c -1.4892,18.14541 -14.4101,18.80016 -10.0903,28.15652 5.8485,12.66739 18.3616,-5.01075 29.8587,12.71461 9.1901,14.16872 11.425,-6.89061 10.0048,-22.88747 -1.4155,-15.94472 -1.6831,-6.94452 -4.5799,-19.46319 -2.0823,-8.99892 -24.3048,-9.34765 -25.1933,1.47953 z"
+       id="path7829-8-7-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssss" />
   </g>
 </svg>
