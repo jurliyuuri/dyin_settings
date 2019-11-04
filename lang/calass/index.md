@@ -9,7 +9,7 @@
 - [副詞](adverb.md)
 - [前置詞](preposition.md)
 - 疑問詞](interrogative_word.md)
-- 助動詞](auxiliary_verb.md)
+- [助動詞](auxiliary_verb.md)
 - 命令文](imperative_sentence.md)
 - 比較](comparative_sentence.md)
 - 接続詞](conjunction.md)
@@ -20,3 +20,4 @@
 * [脱鼻音化](denasalization.md)
 * [子音弱化](lenition.md)
 * [連音化](sandhi.md)
+* [成節子音](syllabic_consonant.md)

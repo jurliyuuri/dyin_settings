@@ -20,13 +20,17 @@
 
 ## 指示代名詞
 ### 単数
-|      | 主格 | 属格  | 対格  | 与格  | 所格  | 様格  |
-|------|------|-------|-------|-------|-------|-------|
-| 近称 |  |  |  |  |  |  |
-| 遠称 |  |  |  |  |  |  |
+|              | 主格  | 属格   | 対格   | 与格   | 所格   | 様格    |
+|--------------|-------|--------|--------|--------|--------|---------|
+| 近称(生物)   | anra  | anrah  | anrac  | anran  | anrak  | anrava  |
+| 近称(無生物) | gwee  | gweeh  | gweec  | gween  | gweek  | gevee   |
+| 遠称(生物)   | cvena | cvenah | cvenas | cvenan | cvenak | cveneva |
+| 遠称(無生物) | ukwi  | ukwih  | ukwis  | ukwin  | ukwik  | ukwovi  |
 
 ### 複数
-|      | 主格 | 属格  | 対格  | 与格  | 所格  | 様格  |
-|------|------|-------|-------|-------|-------|-------|
-| 近称 |  |  |  |  |  |  |
-| 遠称 |  |  |  |  |  |  |
+|              | 主格    | 属格     | 対格     | 与格     | 所格     | 様格      |
+|--------------|---------|----------|----------|----------|----------|-----------|
+| 近称(生物)   | anramo  | anramoh  | anramoc  | anramon  | anramok  | anravamo  |
+| 近称(無生物) | gweemo  | gweemoh  | gweemoc  | gweemon  | gweemok  | geveemo   |
+| 遠称(生物)   | cvenate | cvenateh | cvenates | cvenaten | cvenatek | cvenevate |
+| 遠称(無生物) | ukwite  | ukwiteh  | ukwites  | ukwiten  | ukwitek  | ukwovite  |
