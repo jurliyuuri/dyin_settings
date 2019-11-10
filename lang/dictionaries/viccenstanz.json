@@ -1,0 +1,1416 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 2,
+      "form" : "juxa"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "人", "ひと" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0101:"
+    }, {
+      "title" : "発音",
+      "text" : "/juʃa/"
+    }, {
+      "title" : "語義",
+      "text" : "「人間のような生物」の意．人型ラーデミンや獣人などのようなものも含む．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 3,
+      "form" : "dak"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "男", "男性" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2016:0103:"
+    }, {
+      "title" : "発音",
+      "text" : "/dak/"
+    }, {
+      "title" : "語義",
+      "text" : "「人の性別の一つで，子をなさない方」の意．\njuxa以外の動物などには使用しない．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4,
+        "form" : "nys"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4,
+      "form" : "nys"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "女", "女性" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2016:0103:\n古ヴィッセンスタンツ語:nuis /nuis/"
+    }, {
+      "title" : "発音",
+      "text" : "/nys/"
+    }, {
+      "title" : "語義",
+      "text" : "「人の性別の一つで，子をなす方」の意．\njuxa以外の動物などには使用しない．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 3,
+        "form" : "dak"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 6,
+      "form" : "uham"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "体", "身体" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0225:"
+    }, {
+      "title" : "発音",
+      "text" : "/uxam/"
+    }, {
+      "title" : "語義",
+      "text" : "「動物の頭・胴体・手足など全てをまとめたもの」「植物の花・茎・葉・根など全てをまとめたもの」の意"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 7,
+      "form" : "urha"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "足", "脚" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0128:"
+    }, {
+      "title" : "発音",
+      "text" : "/urxa/"
+    }, {
+      "title" : "語義",
+      "text" : "「人の後足にあたる部分で，立ったり移動したりする時などに使用する部位」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 23,
+      "form" : "owa"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "目", "瞳" ]
+    }, {
+      "title" : "一般名詞",
+      "forms" : [ "眼", "眼球" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0115:"
+    }, {
+      "title" : "発音",
+      "text" : "/ɔwa/"
+    }, {
+      "title" : "語義",
+      "text" : "「動物が物を見るために使用する器官」の意"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 27,
+      "form" : "cta"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "手" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0128:"
+    }, {
+      "title" : "発音",
+      "text" : "/ʃta/"
+    }, {
+      "title" : "語義",
+      "text" : "「人の前足にあたる部分で，物を掴んだりすることができる部位」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 76,
+      "form" : "omick"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "親" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0103:"
+    }, {
+      "title" : "発音",
+      "text" : "/ɔmisk/"
+    }, {
+      "title" : "語義",
+      "text" : "「対象の直接的な祖先」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 77,
+      "form" : "galpe"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "子供" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0103:"
+    }, {
+      "title" : "発音",
+      "text" : "/galpɛ/"
+    }, {
+      "title" : "語義",
+      "text" : "「対象者の直下の子孫」「動物のうち年齢が若いもの」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 78,
+      "form" : "evak"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "父", "父親" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0128:"
+    }, {
+      "title" : "発音",
+      "text" : "/ɛvak/"
+    }, {
+      "title" : "語義",
+      "text" : "「自動の親のうち男性の方」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 79,
+        "form" : "wane"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 79,
+      "form" : "wane"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "母", "母親" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0128:"
+    }, {
+      "title" : "発音",
+      "text" : "/wanɛ/"
+    }, {
+      "title" : "語義",
+      "text" : "「自分の親のうち女性の方」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 78,
+        "form" : "evak"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 96,
+      "form" : "tasky"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "生き物", "生物" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0122:\n古ヴィッセンスタンツ語:taskui /taskui/"
+    }, {
+      "title" : "発音",
+      "text" : "/tasky/"
+    }, {
+      "title" : "語義",
+      "text" : "「生命活動を行なっているもの」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 117,
+      "form" : "rikke"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "鳥", "鳥類" ]
+    } ],
+    "tags" : [ "名詞", "生物" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0112:"
+    }, {
+      "title" : "発音",
+      "text" : "/rikːɛ/"
+    }, {
+      "title" : "語義",
+      "text" : "「翼を持つ獣」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 179,
+      "form" : "roodz"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "木", "樹木" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0119:"
+    }, {
+      "title" : "発音",
+      "text" : "/rɔːʒ/"
+    }, {
+      "title" : "語義",
+      "text" : "「茎の部分が堅くなっている植物の総称」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 398,
+      "form" : "zoine"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "住まい", "住居" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0225:"
+    }, {
+      "title" : "発音",
+      "text" : "/t͡sɔinɛ/"
+    }, {
+      "title" : "語義",
+      "text" : "「人が居住するための場所」の意"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 400,
+      "form" : "deef"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "家", "家屋" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0112:"
+    }, {
+      "title" : "発音",
+      "text" : "/dɛːf/"
+    }, {
+      "title" : "語義",
+      "text" : "「人が居住する目的で作成した建造物」の意"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 428,
+      "form" : "boox"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "テーブル" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0116:"
+    }, {
+      "title" : "発音",
+      "text" : "/bɔːʃ/"
+    }, {
+      "title" : "語義",
+      "text" : "「上に使用するものを置くための家具．下に空間があり，足を伸ばしたり物を置いたりすることができる」の意．高さは様々．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 438,
+      "form" : "otaab"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "布団", "敷布団" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0225:"
+    }, {
+      "title" : "発音",
+      "text" : "/ɔtaːb/"
+    }, {
+      "title" : "語義",
+      "text" : "「就寝するために床に敷く寝具」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 510,
+      "form" : "kacce"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "本", "書物" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2016:1225:"
+    }, {
+      "title" : "発音",
+      "text" : "/kasːe/"
+    }, {
+      "title" : "語義",
+      "text" : "「主に紙で作られた読み物」の意．\n文章の有無は問わない．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 530,
+      "form" : "pirde"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "色", "色彩", "カラー" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0122:"
+    }, {
+      "title" : "発音",
+      "text" : "/pirdɛ/"
+    }, {
+      "title" : "語義",
+      "text" : "「物体から反射した光の視覚的な感じ」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 562,
+      "form" : "met"
+    },
+    "translations" : [ {
+      "title" : "数詞",
+      "forms" : [ "零", "ゼロ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0126:"
+    }, {
+      "title" : "発音",
+      "text" : "/mɛt/"
+    }, {
+      "title" : "語義",
+      "text" : "「一つも無い」「何も無い」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 563,
+      "form" : "wit"
+    },
+    "translations" : [ {
+      "title" : "数詞",
+      "forms" : [ "一", "いち", "1" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0121:"
+    }, {
+      "title" : "発音",
+      "text" : "/wit/"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 564,
+      "form" : "uk"
+    },
+    "translations" : [ {
+      "title" : "数詞",
+      "forms" : [ "二", "に", "2" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0121:"
+    }, {
+      "title" : "発音",
+      "text" : "/uk/"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 593,
+      "form" : "hom"
+    },
+    "translations" : [ {
+      "title" : "指示代名詞",
+      "forms" : [ "これ" ]
+    }, {
+      "title" : "指示代名詞",
+      "forms" : [ "近称単数" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0121:"
+    }, {
+      "title" : "発音",
+      "text" : "/hɔm/"
+    } ],
+    "variations" : [ {
+      "title" : "複数形",
+      "form" : "homie"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 595,
+      "form" : "dul"
+    },
+    "translations" : [ {
+      "title" : "指示代名詞",
+      "forms" : [ "あれ" ]
+    }, {
+      "title" : "指示代名詞",
+      "forms" : [ "遠称単数" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0121:"
+    }, {
+      "title" : "発音",
+      "text" : "/dul/"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 602,
+      "form" : "cai"
+    },
+    "translations" : [ {
+      "title" : "人称代名詞",
+      "forms" : [ "わたし", "わたくし", "私", "ぼく", "僕" ]
+    }, {
+      "title" : "人称代名詞",
+      "forms" : [ "一人称単数" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2016:1225:"
+    }, {
+      "title" : "発音",
+      "text" : "/sai/"
+    } ],
+    "variations" : [ {
+      "title" : "複数形",
+      "form" : "caiwe"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 604,
+      "form" : "tif"
+    },
+    "translations" : [ {
+      "title" : "人称代名詞",
+      "forms" : [ "あなた", "貴方", "貴女" ]
+    }, {
+      "title" : "人称代名詞",
+      "forms" : [ "二人称単数" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2016:1225:"
+    }, {
+      "title" : "発音",
+      "text" : "/tif/"
+    } ],
+    "variations" : [ {
+      "title" : "複数形",
+      "form" : "tifie"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 606,
+      "form" : "fer"
+    },
+    "translations" : [ {
+      "title" : "人称代名詞",
+      "forms" : [ "彼", "彼女" ]
+    }, {
+      "title" : "人称代名詞",
+      "forms" : [ "三人称単数" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0121:"
+    }, {
+      "title" : "発音",
+      "text" : "/fɛr/"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 615,
+      "form" : "lane"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "大きい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0116:"
+    }, {
+      "title" : "発音",
+      "text" : "/lanɛ/"
+    }, {
+      "title" : "語義",
+      "text" : "「話者のある基準よりも立体的に大きい」の意．\n「縦に大きいが横は普通」の場合には使用することもあるが，「横に大きいが縦は普通」の場合にはあまり使用しない．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 616,
+      "form" : "pit"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "小さい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0116:"
+    }, {
+      "title" : "発音",
+      "text" : "/pit/"
+    }, {
+      "title" : "語義",
+      "text" : "「話者のある基準よりも立体的に小さい」の意．\n「縦に小さいが横は普通」の場合には使用することもあるが，「横に小さいが縦は普通」の場合にはあまり使用しない．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 687,
+      "form" : "zent"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "白い", "白色の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2016:1230:"
+    }, {
+      "title" : "発音",
+      "text" : "/t͡sent/"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 702,
+      "form" : "gled"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "黒い", "黒色の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2016:1231:"
+    }, {
+      "title" : "発音",
+      "text" : "/ɡlɛd/"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 749,
+      "form" : "con"
+    },
+    "translations" : [ {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]をする", "実行する", "行う" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0101:"
+    }, {
+      "title" : "発音",
+      "text" : "/son/"
+    }, {
+      "title" : "語義",
+      "text" : "「何らかの動作を行う」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 752,
+      "form" : "gel"
+    },
+    "translations" : [ {
+      "title" : "自動詞",
+      "forms" : [ "[主]が[与]にいる", "ある", "存在する" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0101:"
+    }, {
+      "title" : "発音",
+      "text" : "/ɡɛl/"
+    }, {
+      "title" : "語義",
+      "text" : "「何らかの物体や概念が実在している」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 767,
+      "form" : "ty"
+    },
+    "translations" : [ {
+      "title" : "自動詞",
+      "forms" : [ "[主]が行く", "向かう" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0101:\n古ヴィッセンスタンツ語:tui /tui/"
+    }, {
+      "title" : "発音",
+      "text" : "/ty/"
+    }, {
+      "title" : "語義",
+      "text" : "「主語がある地点まで移動する」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 768,
+        "form" : "ale"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 768,
+      "form" : "ale"
+    },
+    "translations" : [ {
+      "title" : "自動詞",
+      "forms" : [ "[主]が来る" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0101:"
+    }, {
+      "title" : "発音",
+      "text" : "/alɛ/"
+    }, {
+      "title" : "語義",
+      "text" : "「主語がある地点から移動する」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 767,
+        "form" : "ty"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 794,
+      "form" : "vooz"
+    },
+    "translations" : [ {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]を持っている", "所有している" ]
+    }, {
+      "title" : "他動詞",
+      "forms" : [ "[主]には[対]がいる" ]
+    }, {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]を飼っている" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0126:"
+    }, {
+      "title" : "発音",
+      "text" : "/vɔːt͡s/"
+    }, {
+      "title" : "語義",
+      "text" : "「何らかのものを所有している」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 885,
+      "form" : "mazan"
+    },
+    "translations" : [ {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]と[与]について話す", "会話する", "喋る" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0119:"
+    }, {
+      "title" : "発音",
+      "text" : "/mat͡san/"
+    }, {
+      "title" : "語義",
+      "text" : "「誰かを対象として会話する」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 887,
+      "form" : "hatro"
+    },
+    "translations" : [ {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]を読む" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2016:1225:\n2017:0101:hibr→hatro なんとなく"
+    }, {
+      "title" : "発音",
+      "text" : "/xatro/"
+    }, {
+      "title" : "語義",
+      "text" : "「文字や文章を目で追いかける」の意．\n声の有無は問わない．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 903,
+      "form" : "bork"
+    },
+    "translations" : [ {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]を[与]に置く", "配置する" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0122:"
+    }, {
+      "title" : "発音",
+      "text" : "/bɔrk/"
+    }, {
+      "title" : "語義",
+      "text" : "「物をある位置・場所にとどめる」の意．\n生物にも使うことが可能．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1016,
+      "form" : "ni"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "…ではない．動詞の否定を表す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0113:"
+    }, {
+      "title" : "発音",
+      "text" : "/ni/"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1017,
+      "form" : "a"
+    },
+    "translations" : [ {
+      "title" : "前置詞",
+      "forms" : [ "…の．属格を表す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0113:"
+    }, {
+      "title" : "発音",
+      "text" : "/a/"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1018,
+      "form" : "sar"
+    },
+    "translations" : [ {
+      "title" : "自動詞",
+      "forms" : [ "[主]は…だ", "…である" ]
+    }, {
+      "title" : "自動詞",
+      "forms" : [ "コピュラを表す" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0113:"
+    }, {
+      "title" : "発音",
+      "text" : "/zar/"
+    }, {
+      "title" : "成句",
+      "text" : "sar a ～：～の出身だ，～の所属だ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1019,
+      "form" : "e"
+    },
+    "translations" : [ {
+      "title" : "前置詞",
+      "forms" : [ "…に．与格を表す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0114:"
+    }, {
+      "title" : "発音",
+      "text" : "/ɛ/"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1022,
+      "form" : "viccenstanz"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "ヴィッセンスタンツ" ]
+    } ],
+    "tags" : [ "名詞", "地名" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "????:????:不明\n2019:0707: viccenstantz→viccenstanz"
+    }, {
+      "title" : "発音",
+      "text" : "/visːɛnstant͡s/"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1023,
+      "form" : "xip"
+    },
+    "translations" : [ {
+      "title" : "指示代名詞",
+      "forms" : [ "示称単数" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0121:"
+    }, {
+      "title" : "発音",
+      "text" : "/ʃip/"
+    }, {
+      "title" : "語義",
+      "text" : "「話題に初めて登場した対象を表す」の意．"
+    } ],
+    "variations" : [ {
+      "title" : "複数形",
+      "form" : "xipie"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1024,
+      "form" : "nict"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "…ではない．名詞や形容詞の否定を表す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2017:0126:niより派生"
+    }, {
+      "title" : "発音",
+      "text" : "/nist/"
+    }, {
+      "title" : "語義",
+      "text" : "「ある物事ではない」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1025,
+      "form" : "iwe"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "複数を表す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "20170504:"
+    }, {
+      "title" : "発音",
+      "text" : "/iwɛ/"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1026,
+      "form" : "nokta"
+    },
+    "translations" : [ {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]を[与]に書く", "記述する" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "20170506:"
+    }, {
+      "title" : "発音",
+      "text" : "/nɔkta/"
+    }, {
+      "title" : "語義",
+      "text" : "「何らかの文章や文字を物体に書き込む」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1027,
+      "form" : "slek"
+    },
+    "translations" : [ {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]を切る，切断する" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "20170506:"
+    }, {
+      "title" : "発音",
+      "text" : "/slɛk/"
+    }, {
+      "title" : "語義",
+      "text" : "「刃物などの道具を使って何らかの物体を滑らかに分ける」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1028,
+      "form" : "heix"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "魚", "魚類" ]
+    } ],
+    "tags" : [ "名詞", "生物" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "20170506:"
+    }, {
+      "title" : "発音",
+      "text" : "/xɛiʃ/"
+    }, {
+      "title" : "語義",
+      "text" : "「水中に棲息している生物のうち，エラ呼吸を行いヒレを持つもの」の意．\n古ヴィッセンスタンツ語の時点ではクジラやイルカのように魚類に類似する生物も含まれていたが，現代では通常それらを含むことはない．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1029,
+      "form" : "kycpa"
+    },
+    "translations" : [ {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]を食べる", "食する" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "20170506:"
+    }, {
+      "title" : "発音",
+      "text" : "/kyspa/"
+    }, {
+      "title" : "語義",
+      "text" : "「食物を口に入れ飲み込む」の意．\n通常液体のものには使わない．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1030,
+      "form" : "miiga"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "狭い", "狭小である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "20170506:"
+    }, {
+      "title" : "発音",
+      "text" : "/miːga/"
+    }, {
+      "title" : "語義",
+      "text" : "「話者のある基準よりも面積が小さい」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 1031,
+        "form" : "golba"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 1031,
+      "form" : "golba"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "広い", "広大である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "20170506:"
+    }, {
+      "title" : "発音",
+      "text" : "/ɡɔlba/"
+    }, {
+      "title" : "語義",
+      "text" : "「話者のある基準よりも面積が大きい」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 1030,
+        "form" : "miiga"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 1032,
+      "form" : "xaik"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "鋭い", "鋭角だ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "20170511:"
+    }, {
+      "title" : "発音",
+      "text" : "/ʃaik/"
+    }, {
+      "title" : "語義",
+      "text" : "「話者のある基準よりも物の先端が尖っている」の意"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 1033,
+        "form" : "bodu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 1033,
+      "form" : "bodu"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "鈍い", "鈍角だ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "20170511:"
+    }, {
+      "title" : "発音",
+      "text" : "/bɔdu/"
+    }, {
+      "title" : "語義",
+      "text" : "「話者のある基準よりも物の先端が鈍く尖っていない」の意"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 1032,
+        "form" : "xaik"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 1034,
+      "form" : "tuc"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "口", "口腔" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "20170511:"
+    }, {
+      "title" : "発音",
+      "text" : "/tus/"
+    }, {
+      "title" : "語義",
+      "text" : "「食物を取り入れたり声を出したりする部分」の意"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1035,
+      "form" : "syd"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "犬", "イヌ" ]
+    } ],
+    "tags" : [ "名詞", "生物" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "20170511:\n古ヴィッセンスタンツ語:suid /zuid/"
+    }, {
+      "title" : "発音",
+      "text" : "/zyd/"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1036,
+      "form" : "fano"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "何度も", "何回も" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "20170709:"
+    }, {
+      "title" : "発音",
+      "text" : "/fano/"
+    }, {
+      "title" : "語義",
+      "text" : "「修飾した動作を複数回繰り返す」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1037,
+      "form" : "los"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "完了を表す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "20170709:"
+    }, {
+      "title" : "発音",
+      "text" : "/los/"
+    }, {
+      "title" : "語義",
+      "text" : "「動作が完了していることを表す」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1038,
+      "form" : "erni"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "疑問文を表す" ]
+    } ],
+    "tags" : [ "副詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:07:07:"
+    }, {
+      "title" : "発音",
+      "text" : "/ɛrni/"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
+  "zpdic" : {
+    "alphabetOrder" : "abcdefghijklmnopqrstuvwxyz",
+    "wordOrderType" : "UNICODE",
+    "punctuations" : [ ",", "、" ],
+    "pronunciationTitle" : "発音",
+    "plainInformationTitles" : [ ],
+    "informationTitleOrder" : null,
+    "defaultWord" : {
+      "entry" : {
+        "id" : -1,
+        "form" : ""
+      },
+      "translations" : [ ],
+      "tags" : [ ],
+      "contents" : [ ],
+      "variations" : [ ],
+      "relations" : [ ]
+    }
+  },
+  "snoj" : null
+}

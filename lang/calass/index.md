@@ -13,7 +13,7 @@
 - 命令文](imperative_sentence.md)
 - 比較](comparative_sentence.md)
 - 接続詞](conjunction.md)
-- 関係詞](relativizer.md)
+- [関係詞](relativizer.md)
 - 数詞](numeral.md)
 
 ## サラス語における現象

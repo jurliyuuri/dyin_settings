@@ -1,14 +1,14 @@
 # デュイン史
 デュインの歴史は大まかに分けて以下の二つに区切られる．
-* シェルケン統治前(fontaxelkenil)
-* シェルケン統治後(lernexelkenil)
+* xelken統治前(fontaxelkenil)
+* xelken統治後(lernexelkenil)
 
-## シェルケン統治前
+## xelken統治前
 * [先史期](./000.md)
 * [建国期](./001.md)
 * [統治期](./002.md)
 
-## シェルケン統治後
+## xelken統治後
 * [xelken支配期](./003.md)
 * [連邦期](./004.md)
 

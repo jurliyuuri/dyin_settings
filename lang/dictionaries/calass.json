@@ -1,0 +1,912 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 1,
+      "form" : "do"
+    },
+    "translations" : [ {
+      "title" : "人称代名詞",
+      "forms" : [ "一人称単数", "私", "僕" ]
+    } ],
+    "tags" : [ "代名詞", "M型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0714:"
+    }, {
+      "title" : "発音",
+      "text" : "do"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 2,
+      "form" : "kan"
+    },
+    "translations" : [ {
+      "title" : "人称代名詞",
+      "forms" : [ "二人称単数", "あなた", "貴方", "貴女", "貴殿" ]
+    } ],
+    "tags" : [ "代名詞", "T型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0714:"
+    }, {
+      "title" : "発音",
+      "text" : "kan"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 3,
+      "form" : "xuil"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "本", "書物", "読み物" ]
+    } ],
+    "tags" : [ "名詞", "T型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0714:"
+    }, {
+      "title" : "発音",
+      "text" : "ʃuil"
+    }, {
+      "title" : "語義",
+      "text" : "「文や絵がかかれた紙を纏めたもので，人が読むもの」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4,
+      "form" : "elma"
+    },
+    "translations" : [ {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]を読む", "音読する", "読み上げる" ]
+    }, {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]を読む", "黙読する" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0714:"
+    }, {
+      "title" : "発音",
+      "text" : "ɛlma"
+    }, {
+      "title" : "語義",
+      "text" : "「文字や文章を読む」の意．読み上げの有無は問わない．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5,
+      "form" : "myntol"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "幼児", "稚児", "小児", "子供" ]
+    } ],
+    "tags" : [ "名詞", "T型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0714:"
+    }, {
+      "title" : "発音",
+      "text" : "myntol"
+    }, {
+      "title" : "語義",
+      "text" : "「おおよそ1歳から4歳まであたりの子供」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 6,
+      "form" : "rif"
+    },
+    "translations" : [ {
+      "title" : "人称代名詞",
+      "forms" : [ "三人称単数生物", "それ", "その人" ]
+    } ],
+    "tags" : [ "代名詞", "T型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0714:"
+    }, {
+      "title" : "発音",
+      "text" : "rif"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 7,
+      "form" : "hes"
+    },
+    "translations" : [ {
+      "title" : "人称代名詞",
+      "forms" : [ "三人称単数非生物", "それ" ]
+    } ],
+    "tags" : [ "代名詞", "M型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0714:"
+    }, {
+      "title" : "発音",
+      "text" : "xɛz"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 8,
+      "form" : "wedal"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "魚", "魚類" ]
+    } ],
+    "tags" : [ "名詞", "T型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0725:"
+    }, {
+      "title" : "発音",
+      "text" : "wɛdal"
+    }, {
+      "title" : "語義",
+      "text" : "おおよそ「魚類」の意．ただし魚類に近い見た目の動物も含まれる場合がある．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 9,
+      "form" : "nekri"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "赤", "赤の", "赤い", "赤色の" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0725:"
+    }, {
+      "title" : "発音",
+      "text" : "nɛkri"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 10,
+      "form" : "peez"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "青", "青の", "青い", "青色の" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0725:"
+    }, {
+      "title" : "発音",
+      "text" : "pɛːt͡s"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 11,
+      "form" : "gloh"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "黒", "黒の", "黒い", "黒色の" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0725:"
+    }, {
+      "title" : "発音",
+      "text" : "ɡlox"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 12,
+      "form" : "foost"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "白", "白の", "白い", "白色の" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0725:"
+    }, {
+      "title" : "発音",
+      "text" : "foːst̚"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 13,
+      "form" : "tohe"
+    },
+    "translations" : [ {
+      "title" : "前置詞",
+      "forms" : [ "(与格を伴って)奪格を表す", "(場所)から" ]
+    } ],
+    "tags" : [ "前置詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0728:"
+    }, {
+      "title" : "発音",
+      "text" : "toxɛ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 15,
+        "form" : "mhegu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 14,
+      "form" : "obyr"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "家", "家屋", "住居" ]
+    }, {
+      "title" : "一般名詞",
+      "forms" : [ "家", "住まい", "住処" ]
+    } ],
+    "tags" : [ "名詞", "T型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0728:\n2019:1110: 「住んでいる場所」の意を追加"
+    }, {
+      "title" : "発音",
+      "text" : "obyr"
+    }, {
+      "title" : "語義",
+      "text" : "原義は「人の居住を主目的とした建造物」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 15,
+      "form" : "mhegu"
+    },
+    "translations" : [ {
+      "title" : "前置詞",
+      "forms" : [ "(与格を伴って)向格を表す", "(場所)へ" ]
+    } ],
+    "tags" : [ "前置詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0728:"
+    }, {
+      "title" : "発音",
+      "text" : "pˠɛɡu,mɛɡu,m̩.xɛɡu"
+    }, {
+      "title" : "その他",
+      "text" : "規範的な発音は/pˠɛɡu/となっている．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "tohe"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 16,
+      "form" : "ipca"
+    },
+    "translations" : [ {
+      "title" : "前置詞",
+      "forms" : [ "具格を表す", "…を使って", "…を使用して" ]
+    } ],
+    "tags" : [ "前置詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0728:"
+    }, {
+      "title" : "発音",
+      "text" : "ipsa"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 17,
+      "form" : "cap"
+    },
+    "translations" : [ {
+      "title" : "自動詞",
+      "forms" : [ "[主]が[与/mhegu 与]へ行く", "向かう" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0728:"
+    }, {
+      "title" : "発音",
+      "text" : "sap̚"
+    }, {
+      "title" : "語義",
+      "text" : "「[主]がある地点へ移動する」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 18,
+        "form" : "sobad"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 18,
+      "form" : "sobad"
+    },
+    "translations" : [ {
+      "title" : "自動詞",
+      "forms" : [ "[主]が[与/tohe 与]から来る", "訪れる", "来訪する" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:0728:"
+    }, {
+      "title" : "発音",
+      "text" : "zoba"
+    }, {
+      "title" : "語義",
+      "text" : "「[主]がある地点から移動してくる」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 17,
+        "form" : "cap"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 19,
+      "form" : "tinka"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "分かりやすい", "理解しやすい", "易しい" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1019: アルテナ語のtinkaより"
+    }, {
+      "title" : "発音",
+      "text" : "tinka"
+    }, {
+      "title" : "語義",
+      "text" : "「物事が理解しやすいこと」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 30,
+        "form" : "estvr"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 20,
+      "form" : "cilte"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "速い", "速度のある", "素早い" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1019:"
+    }, {
+      "title" : "発音",
+      "text" : "siltɛ"
+    }, {
+      "title" : "語義",
+      "text" : "「物の動きが速い」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 21,
+        "form" : "wopo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 21,
+      "form" : "wopo"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "遅い", "速度のない", "のろまな" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1019:"
+    }, {
+      "title" : "発音",
+      "text" : "wopo"
+    }, {
+      "title" : "語義",
+      "text" : "「物の動きが遅い」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 20,
+        "form" : "cilte"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 22,
+      "form" : "fana"
+    },
+    "translations" : [ {
+      "title" : "自動詞",
+      "forms" : [ "[主]が動く", "移動する" ]
+    }, {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]を動かす", "移動させる" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1020:"
+    }, {
+      "title" : "発音",
+      "text" : "fana"
+    }, {
+      "title" : "語義",
+      "text" : "「[主]の位置・場所が変わる」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 23,
+      "form" : "mrait"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "とても", "非常に" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "よく", "頻繁に" ]
+    } ],
+    "tags" : [ "副詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1027:"
+    }, {
+      "title" : "発音",
+      "text" : "brɛ,mrɛ,brait̚,mrait̚"
+    }, {
+      "title" : "語義",
+      "text" : "「程度が基準より上位である」の意．"
+    }, {
+      "title" : "その他",
+      "text" : "規範的な発音は/brɛ/となっている．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 24,
+      "form" : "kwesa"
+    },
+    "translations" : [ {
+      "title" : "他動詞",
+      "forms" : [ "[主]が([ipca 与]を使って)[対]を作る", "作成する", "製作する", "製造する" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1104:"
+    }, {
+      "title" : "発音",
+      "text" : "kʷɛza,kɛza"
+    }, {
+      "title" : "語義",
+      "text" : "「何らかの材料を用いて別のものを作り出す」の意．"
+    }, {
+      "title" : "その他",
+      "text" : "規範的な発音は/kʷɛza/となっている．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 25,
+      "form" : "anra"
+    },
+    "translations" : [ {
+      "title" : "指示代名詞",
+      "forms" : [ "近称単数生物", "この人", "この生物" ]
+    } ],
+    "tags" : [ "代名詞", "M型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1104:"
+    }, {
+      "title" : "発音",
+      "text" : "adra"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 26,
+      "form" : "ukwi"
+    },
+    "translations" : [ {
+      "title" : "指示代名詞",
+      "forms" : [ "遠称単数無生物", "あれ", "あそこ" ]
+    } ],
+    "tags" : [ "代名詞", "T型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1104:"
+    }, {
+      "title" : "発音",
+      "text" : "ukʷi,uki"
+    }, {
+      "title" : "その他",
+      "text" : "規範的な発音は/ukʷi/となっている．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 27,
+      "form" : "cvena"
+    },
+    "translations" : [ {
+      "title" : "指示代名詞",
+      "forms" : [ "遠称単数生物", "あの人", "あの生物" ]
+    } ],
+    "tags" : [ "代名詞", "T型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1104:"
+    }, {
+      "title" : "発音",
+      "text" : "svɛna"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 28,
+      "form" : "gwee"
+    },
+    "translations" : [ {
+      "title" : "指示代名詞",
+      "forms" : [ "近称単数無生物", "これ", "ここ" ]
+    } ],
+    "tags" : [ "代名詞", "M型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1104:"
+    }, {
+      "title" : "発音",
+      "text" : "ɡʷɛː,ɡɛː"
+    }, {
+      "title" : "その他",
+      "text" : "規範的な発音は/ɡʷɛː/となっている．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 29,
+      "form" : "aacrm"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "海", "海洋" ]
+    } ],
+    "tags" : [ "名詞", "T型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1104:"
+    }, {
+      "title" : "発音",
+      "text" : "aːs.r̩m"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 30,
+      "form" : "estvr"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "分かりにくい", "分かりづらい", "理解し難い", "難しい" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1104:"
+    }, {
+      "title" : "発音",
+      "text" : "ɛs.tv̩r"
+    }, {
+      "title" : "語義",
+      "text" : "「物事が理解しにくいこと」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 19,
+        "form" : "tinka"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 31,
+      "form" : "rojen"
+    },
+    "translations" : [ {
+      "title" : "助動詞",
+      "forms" : [ "能力可能", "…する能力がある", "…することができる" ]
+    } ],
+    "tags" : [ "助動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1104:"
+    }, {
+      "title" : "発音",
+      "text" : "/rojɛn/"
+    }, {
+      "title" : "語義",
+      "text" : "「その動作を行うための能力を持っている」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 32,
+      "form" : "ctamrut"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "スタブルット", "サラス" ]
+    } ],
+    "tags" : [ "名詞", "T型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1104:"
+    }, {
+      "title" : "発音",
+      "text" : "stabrut̚"
+    }, {
+      "title" : "その他",
+      "text" : "元々の語義だが，現在見付かっている史料にはこの単語につながるような単語が見付かっていないため不明．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 33,
+      "form" : "dyin"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "デュイン" ]
+    } ],
+    "tags" : [ "名詞", "T型", "外来語" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1109: リパライン語での呼び名より"
+    }, {
+      "title" : "発音",
+      "text" : "dyin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 34,
+      "form" : "narsa"
+    },
+    "translations" : [ {
+      "title" : "関係詞",
+      "forms" : [ "中立関係詞" ]
+    } ],
+    "tags" : [ "関係詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1110:"
+    }, {
+      "title" : "発音",
+      "text" : "narza"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 35,
+      "form" : "lyxe"
+    },
+    "translations" : [ {
+      "title" : "関係詞",
+      "forms" : [ "生物関係詞" ]
+    } ],
+    "tags" : [ "関係詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1110:"
+    }, {
+      "title" : "発音",
+      "text" : "lyʃɛ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 36,
+      "form" : "jegre"
+    },
+    "translations" : [ {
+      "title" : "関係詞",
+      "forms" : [ "無生物関係詞" ]
+    } ],
+    "tags" : [ "関係詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1110:"
+    }, {
+      "title" : "発音",
+      "text" : "jɛɡrɛ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 37,
+      "form" : "hockad"
+    },
+    "translations" : [ {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]を歓迎する" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1110:"
+    }, {
+      "title" : "発音",
+      "text" : "/xoskat̚ /"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 38,
+      "form" : "kanac hockad do"
+    },
+    "translations" : [ {
+      "title" : "感嘆詞",
+      "forms" : [ "ようこそ", "歓迎" ]
+    } ],
+    "tags" : [ "感嘆詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1110:"
+    }, {
+      "title" : "発音",
+      "text" : "kanas xoskat̚ do"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 39,
+      "form" : "zohju"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "話", "会話" ]
+    }, {
+      "title" : "一般名詞",
+      "forms" : [ "言葉", "言語" ]
+    } ],
+    "tags" : [ "名詞", "M型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1110:"
+    }, {
+      "title" : "発音",
+      "text" : "t͡soçu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 40,
+      "form" : "ybri"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "人間", "ヒト", "人", "larta" ]
+    } ],
+    "tags" : [ "名詞", "T型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1110:"
+    }, {
+      "title" : "発音",
+      "text" : "ybri"
+    }, {
+      "title" : "語義",
+      "text" : "「ファイクレオネ・ヒトに近いもの」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
+  "zpdic" : {
+    "alphabetOrder" : "pftcxkhmnrljwbvdsgiyuoea",
+    "wordOrderType" : "CUSTOM",
+    "punctuations" : [ ",", "、", "，" ],
+    "pronunciationTitle" : "発音",
+    "plainInformationTitles" : [ ],
+    "informationTitleOrder" : null,
+    "defaultWord" : {
+      "entry" : {
+        "id" : -1,
+        "form" : ""
+      },
+      "translations" : [ ],
+      "tags" : [ ],
+      "contents" : [ ],
+      "variations" : [ ],
+      "relations" : [ ]
+    }
+  },
+  "snoj" : null
+}
