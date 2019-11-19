@@ -3,7 +3,7 @@
 単複の違いはない．
 
 |        | 主格  | 属格   | 対格   | 与格   | 所格   | 様格    |
-|--------|-------|--------|--------|--------|--------|---------|
+|:------:|:-----:|:------:|:------:|:------:|:------:|:-------:|
 | 生物   | lyxe  | lyxeh  | lyxec  | lyxen  | lyxek  | lyxve   |
 | 無生物 | jegre | jegreh | jegrec | jegren | jegrek | jegreve |
 | 中立   | narsa | narsah | narsac | narsan | narsak | narsva  |

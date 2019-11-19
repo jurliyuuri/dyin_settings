@@ -8,7 +8,7 @@
 - [形容詞](adjective.md)
 - [副詞](adverb.md)
 - [前置詞](preposition.md)
-- 疑問詞](interrogative_word.md)
+- [疑問詞](interrogative_word.md)
 - [助動詞](auxiliary_verb.md)
 - 命令文](imperative_sentence.md)
 - 比較](comparative_sentence.md)

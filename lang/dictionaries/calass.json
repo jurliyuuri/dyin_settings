@@ -226,7 +226,7 @@
   }, {
     "entry" : {
       "id" : 12,
-      "form" : "foost"
+      "form" : "fooct"
     },
     "translations" : [ {
       "title" : "形容詞",
@@ -235,7 +235,7 @@
     "tags" : [ "形容詞" ],
     "contents" : [ {
       "title" : "語源",
-      "text" : "2019:0725:"
+      "text" : "2019:0725:\n2019:1117:foost→fooct ;転写ミス"
     }, {
       "title" : "発音",
       "text" : "foːst̚"
@@ -382,7 +382,7 @@
       "text" : "2019:0728:"
     }, {
       "title" : "発音",
-      "text" : "zoba"
+      "text" : "zobat"
     }, {
       "title" : "語義",
       "text" : "「[主]がある地点から移動してくる」の意．"
@@ -885,6 +885,272 @@
     }, {
       "title" : "語義",
       "text" : "「ファイクレオネ・ヒトに近いもの」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 41,
+      "form" : "dal"
+    },
+    "translations" : [ {
+      "title" : "疑問名詞",
+      "forms" : [ "何", "なに" ]
+    } ],
+    "tags" : [ "疑問詞", "T型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1117:"
+    }, {
+      "title" : "発音",
+      "text" : "dal"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 42,
+      "form" : "luha"
+    },
+    "translations" : [ {
+      "title" : "疑問名詞",
+      "forms" : [ "誰", "だれ" ]
+    } ],
+    "tags" : [ "疑問詞", "M型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1117:"
+    }, {
+      "title" : "発音",
+      "text" : "luxa"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 43,
+      "form" : "polt"
+    },
+    "translations" : [ {
+      "title" : "疑問形容詞",
+      "forms" : [ "いつの", "何時の" ]
+    } ],
+    "tags" : [ "疑問詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1117:"
+    }, {
+      "title" : "発音",
+      "text" : "polt̚"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 44,
+      "form" : "imo"
+    },
+    "translations" : [ {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]をする", "行う" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1117:"
+    }, {
+      "title" : "発音",
+      "text" : "imo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 45,
+      "form" : "creip"
+    },
+    "translations" : [ {
+      "title" : "疑問動詞",
+      "forms" : [ "何をする", "どのようにする" ]
+    } ],
+    "tags" : [ "疑問詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1117: "
+    }, {
+      "title" : "発音",
+      "text" : "srɛip̚"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 46,
+      "form" : "poltoh"
+    },
+    "translations" : [ {
+      "title" : "疑問副詞",
+      "forms" : [ "いつ", "何時" ]
+    } ],
+    "tags" : [ "疑問詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1117:polt+-h"
+    }, {
+      "title" : "発音",
+      "text" : "poltox"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 47,
+      "form" : "ohai"
+    },
+    "translations" : [ {
+      "title" : "疑問名詞",
+      "forms" : [ "どこ", "何処" ]
+    } ],
+    "tags" : [ "疑問詞", "T型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1117:"
+    }, {
+      "title" : "発音",
+      "text" : "oxai"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 48,
+      "form" : "vyzuk"
+    },
+    "translations" : [ {
+      "title" : "疑問形容詞",
+      "forms" : [ "どのような" ]
+    } ],
+    "tags" : [ "疑問詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1117:"
+    }, {
+      "title" : "発音",
+      "text" : "vyt͡suk̚"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 49,
+      "form" : "vyzukoh"
+    },
+    "translations" : [ {
+      "title" : "疑問副詞",
+      "forms" : [ "どのように" ]
+    } ],
+    "tags" : [ "疑問詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1117:vyzuk+-h"
+    }, {
+      "title" : "発音",
+      "text" : "vyt͡sukoh"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 50,
+      "form" : "udei"
+    },
+    "translations" : [ {
+      "title" : "疑問名詞",
+      "forms" : [ "どの部分" ]
+    } ],
+    "tags" : [ "疑問詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1118:"
+    }, {
+      "title" : "発音",
+      "text" : "udɛi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 51,
+      "form" : "floik"
+    },
+    "translations" : [ {
+      "title" : "疑問名詞",
+      "forms" : [ "どれ", "何れ" ]
+    } ],
+    "tags" : [ "疑問詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1118:"
+    }, {
+      "title" : "発音",
+      "text" : "floik̚"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 52,
+      "form" : "kral"
+    },
+    "translations" : [ {
+      "title" : "疑問副詞",
+      "forms" : [ "なぜ", "何故" ]
+    } ],
+    "tags" : [ "疑問詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1120:"
+    }, {
+      "title" : "発音",
+      "text" : "kral"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 53,
+      "form" : "ymel"
+    },
+    "translations" : [ {
+      "title" : "疑問形容詞",
+      "forms" : [ "どの程度の", "どのくらいの" ]
+    } ],
+    "tags" : [ "疑問詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1120:"
+    }, {
+      "title" : "発音",
+      "text" : "ymɛl"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 54,
+      "form" : "ymeleh"
+    },
+    "translations" : [ {
+      "title" : "疑問副詞",
+      "forms" : [ "どの程度", "どのくらい" ]
+    } ],
+    "tags" : [ "疑問詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1120:ymel+-h"
+    }, {
+      "title" : "発音",
+      "text" : "ymɛlɛh"
     } ],
     "variations" : [ ],
     "relations" : [ ]
