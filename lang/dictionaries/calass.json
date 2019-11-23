@@ -1154,6 +1154,66 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 55,
+      "form" : "nohru"
+    },
+    "translations" : [ {
+      "title" : "等位接続詞",
+      "forms" : [ "そして", "それから" ]
+    }, {
+      "title" : "等位接続詞",
+      "forms" : [ "かつ", "ならびに" ]
+    } ],
+    "tags" : [ "接続詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1121:"
+    }, {
+      "title" : "発音",
+      "text" : "noxru"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 56,
+      "form" : "xagoi"
+    },
+    "translations" : [ {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]を食べる", "食する" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1121:"
+    }, {
+      "title" : "発音",
+      "text" : "ʃaɡoi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 57,
+      "form" : "ofli"
+    },
+    "translations" : [ {
+      "title" : "従属接続詞",
+      "forms" : [ "…している時", "…する時" ]
+    } ],
+    "tags" : [ "接続詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1121:"
+    }, {
+      "title" : "発音",
+      "text" : "ofli"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pftcxkhmnrljwbvdsgiyuoea",
