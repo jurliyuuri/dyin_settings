@@ -5,9 +5,9 @@
 疑問詞は名詞形と動詞形については通常そのまま文頭に置かれるが，
 形容詞形と副詞形は修飾句とひとかたまりで文頭に置かれる．
 また，主語については文頭に置かれる際に属格にはしない．
-* dalac nekwesaxi kan. 「あなたは何を作成したか？」
-* xasobadaxi polt kan. 「あなたはいつ来ましたか？」
-* luha elmaxi xuilec. 「だれが本を読みますか？」
+- dalac nekwesaxi kan. 「あなたは何を作成したか？」
+- xasobadaxi polt kan. 「あなたはいつ来ましたか？」
+- luha elmaxi xuilec. 「だれが本を読みますか？」
 
 ## 名詞形
 「どの部分」は生物の体の部分についてのみ使用され，

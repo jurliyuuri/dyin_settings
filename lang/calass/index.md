@@ -17,7 +17,7 @@
 - [数詞](numeral.md)
 
 ## サラス語における現象
-* [脱鼻音化](denasalization.md)
-* [子音弱化](lenition.md)
-* [連音化](sandhi.md)
-* [成節子音](syllabic_consonant.md)
+- [脱鼻音化](denasalization.md)
+- [子音弱化](lenition.md)
+- [連音化](sandhi.md)
+- [成節子音](syllabic_consonant.md)

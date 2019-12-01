@@ -8,4 +8,4 @@
 | 無生物 | jegre | jegreh | jegrec | jegren | jegrek | jegreve |
 | 中立   | narsa | narsah | narsac | narsan | narsak | narsva  |
 
-* xuil jegrec elma myntol 「幼児が読む本」
+- xuil jegrec elma myntol 「幼児が読む本」

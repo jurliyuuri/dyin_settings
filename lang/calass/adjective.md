@@ -1,6 +1,6 @@
 # 形容詞
 サラス語の形容詞は名詞句を修飾する場合には，そのまま後ろに置かれる．
-* wedal cilte 「素早い魚」
-* xuil fooct 「白い本」
+- wedal cilte 「素早い魚」
+- xuil fooct 「白い本」
 動詞句を修飾する場合には，名詞の属格と同様の変化を行い後ろに置かれる．
-* fana cilteh 「速く動く」
+- fana cilteh 「速く動く」
