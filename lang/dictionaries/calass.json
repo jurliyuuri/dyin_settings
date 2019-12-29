@@ -1214,6 +1214,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 58,
+      "form" : "sirk"
+    },
+    "translations" : [ {
+      "title" : "前置詞",
+      "forms" : [ "(主格を伴って)…より", "比較対象を表す" ]
+    } ],
+    "tags" : [ "前置詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2019:1204:"
+    }, {
+      "title" : "発音",
+      "text" : "zirk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pftcxkhmnrljwbvdsgiyuoea",
