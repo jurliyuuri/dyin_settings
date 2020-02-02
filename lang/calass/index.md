@@ -11,7 +11,7 @@
 - [疑問詞](interrogative_word.md)
 - [助動詞](auxiliary_verb.md)
 - 命令文](imperative_sentence.md)
-- 比較](comparative_sentence.md)
+- [比較](comparative_sentence.md)
 - [接続詞](conjunction.md)
 - [関係詞](relativizer.md)
 - [数詞](numeral.md)
