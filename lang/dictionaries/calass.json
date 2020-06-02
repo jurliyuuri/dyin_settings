@@ -332,10 +332,10 @@
     "tags" : [ "前置詞" ],
     "contents" : [ {
       "title" : "語源",
-      "text" : "2019:0728:"
+      "text" : "2019:0728:\n2020:0531:発音を修正．/ipsa/→/ip̚sa/"
     }, {
       "title" : "発音",
-      "text" : "ipsa"
+      "text" : "ip̚sa"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -821,7 +821,10 @@
       "text" : "2019:1110:"
     }, {
       "title" : "発音",
-      "text" : "/xoskat̚ /"
+      "text" : "/xoskat/"
+    }, {
+      "title" : "語義",
+      "text" : "「人を喜んで迎え入れる」の意．"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1055,7 +1058,7 @@
       "text" : "2019:1117:vyzuk+-h"
     }, {
       "title" : "発音",
-      "text" : "vyt͡sukoh"
+      "text" : "vyt͡sukox"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1150,7 +1153,7 @@
       "text" : "2019:1120:ymel+-h"
     }, {
       "title" : "発音",
-      "text" : "ymɛlɛh"
+      "text" : "ymɛlɛx"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1192,6 +1195,9 @@
     }, {
       "title" : "発音",
       "text" : "ʃaɡoi"
+    }, {
+      "title" : "語義",
+      "text" : "「食物などを口に入れ噛み砕いた後に飲み込む」の意．\n噛み砕くのような動作が無い場合には使用されない．"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1229,7 +1235,167 @@
       "text" : "2019:1204:"
     }, {
       "title" : "発音",
-      "text" : "zirk"
+      "text" : "zirk̚"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 59,
+      "form" : "rahot"
+    },
+    "translations" : [ {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]を持っている", "所持する" ]
+    }, {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]を持っている", "保有する", "所有する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2020:0524:"
+    }, {
+      "title" : "発音",
+      "text" : "raxot̚"
+    }, {
+      "title" : "語義",
+      "text" : "「[対]の所有権を有している」の意．"
+    } ],
+    "variations" : [ {
+      "title" : "同義異綴語",
+      "form" : "rahgt"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 60,
+      "form" : "bamre"
+    },
+    "translations" : [ {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]を見る", "視線を向ける", "注視する" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2020:0525:"
+    }, {
+      "title" : "発音",
+      "text" : "babrɛ"
+    }, {
+      "title" : "語義",
+      "text" : "「[対]の方へ意識的に視線を向ける」の意．意識的ではないものにはあまり使われない．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 61,
+      "form" : "tta"
+    },
+    "translations" : [ {
+      "title" : "感嘆詞",
+      "forms" : [ "文末に置かれ", "命令文を表す．" ]
+    } ],
+    "tags" : [ "感嘆詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2020:0531:"
+    }, {
+      "title" : "発音",
+      "text" : "t̚tʰə,t̚tʰ"
+    }, {
+      "title" : "その他",
+      "text" : "規範的な発音は/t̚tʰə/となっている．\n個人差はあるものの，帯気の度合いはかなり強めである．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 62,
+      "form" : "guc"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "字", "文字" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2020:0531:"
+    }, {
+      "title" : "発音",
+      "text" : "gus"
+    } ],
+    "variations" : [ {
+      "title" : "同義異綴語",
+      "form" : "guu"
+    }, {
+      "title" : "同義異綴語",
+      "form" : "gcu"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 63,
+      "form" : "hut"
+    },
+    "translations" : [ {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]を切る", "切断する" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2020:0531:"
+    }, {
+      "title" : "発音",
+      "text" : "xut̚"
+    }, {
+      "title" : "語義",
+      "text" : "「刃物などの道具を使用し，物を複数個に分割する」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 64,
+      "form" : "unil"
+    },
+    "translations" : [ {
+      "title" : "他動詞",
+      "forms" : [ "[主]が[対]を飲む", "飲み込む" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2020:0602:"
+    }, {
+      "title" : "発音",
+      "text" : "unil"
+    }, {
+      "title" : "語義",
+      "text" : "「液体や物などを口に入れ噛まずに飲み込む」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 65,
+      "form" : "xiha"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "陸", "陸地" ]
+    } ],
+    "tags" : [ "代名詞", "T型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2020:0602:"
+    }, {
+      "title" : "発音",
+      "text" : "ʃixa"
     } ],
     "variations" : [ ],
     "relations" : [ ]
