@@ -522,7 +522,7 @@
       "text" : "2019:1027:"
     }, {
       "title" : "発音",
-      "text" : "brɛ,mrɛ,brait̚,mrait̚"
+      "text" : "brɛ,brait̚,mrɛ,mrait̚"
     }, {
       "title" : "語義",
       "text" : "「程度が基準より上位である」の意．"
@@ -610,12 +610,15 @@
     "tags" : [ "代名詞", "T型" ],
     "contents" : [ {
       "title" : "語源",
-      "text" : "2019:1104:"
+      "text" : "2019:1104:\n2020:0705:同義異綴語を追加"
     }, {
       "title" : "発音",
       "text" : "svɛna"
     } ],
-    "variations" : [ ],
+    "variations" : [ {
+      "title" : "同義異綴語",
+      "form" : "cvendz"
+    } ],
     "relations" : [ ]
   }, {
     "entry" : {
@@ -1191,7 +1194,7 @@
     "tags" : [ "動詞" ],
     "contents" : [ {
       "title" : "語源",
-      "text" : "2019:1121:"
+      "text" : "2019:1121:\n2020:0705:同義異綴語を追加"
     }, {
       "title" : "発音",
       "text" : "ʃaɡoi"
@@ -1199,7 +1202,10 @@
       "title" : "語義",
       "text" : "「食物などを口に入れ噛み砕いた後に飲み込む」の意．\n噛み砕くのような動作が無い場合には使用されない．"
     } ],
-    "variations" : [ ],
+    "variations" : [ {
+      "title" : "同義異綴語",
+      "form" : "xaggi"
+    } ],
     "relations" : [ ]
   }, {
     "entry" : {
@@ -1326,7 +1332,7 @@
       "text" : "2020:0531:"
     }, {
       "title" : "発音",
-      "text" : "gus"
+      "text" : "ɡus"
     } ],
     "variations" : [ {
       "title" : "同義異綴語",
@@ -1399,14 +1405,263 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 66,
+      "form" : "brka"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "(光源や反射する光が)明るい" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2020:0705:\nubrka(白，白色)→brka"
+    }, {
+      "title" : "発音",
+      "text" : "br̩ka"
+    }, {
+      "title" : "語義",
+      "text" : "「光源や反射する光が強い」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 67,
+        "form" : "odiep"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 67,
+      "form" : "odiep"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "*光源や反射する光が)暗い" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2020:0705:"
+    }, {
+      "title" : "発音",
+      "text" : "odiɛp̚"
+    }, {
+      "title" : "語義",
+      "text" : "「光源や反射する光が弱い」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 66,
+        "form" : "brka"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 68,
+      "form" : "ipua"
+    },
+    "translations" : [ {
+      "title" : "前置詞",
+      "forms" : [ "…を利用して" ]
+    }, {
+      "title" : "前置詞",
+      "forms" : [ "…を唆して", "…を煽動して", "…をけしかけて" ]
+    } ],
+    "tags" : [ "前置詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2020:0705:ipsaより派生"
+    }, {
+      "title" : "発音",
+      "text" : "ipua"
+    }, {
+      "title" : "語義",
+      "text" : "「人や物を利用して何か利益を得る」の意"
+    }, {
+      "title" : "その他",
+      "text" : "元はipcaの同義異綴語だが，「人を利用して何かの利益を得る」の意味合いの場合はこちらを使用するようになったことにより分離された．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 69,
+      "form" : "ocul"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "名前", "名称" ]
+    } ],
+    "tags" : [ "名詞", "T型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2020:0705:"
+    }, {
+      "title" : "発音",
+      "text" : "osul"
+    }, {
+      "title" : "語義",
+      "text" : "「人や物の名称」の意"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 70,
+      "form" : "wato"
+    },
+    "translations" : [ {
+      "title" : "自動詞",
+      "forms" : [ "[主]がある", "いる", "存在する" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2020:0705:"
+    }, {
+      "title" : "発音",
+      "text" : "wato"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 71,
+      "form" : "weelfuup"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "WP", "ウェールフープ" ]
+    } ],
+    "tags" : [ "名詞", "T型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2020:0712:リパライン語のwerlfurpより"
+    }, {
+      "title" : "発音",
+      "text" : "wɛːlfuːp"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 72,
+      "form" : "alkon"
+    },
+    "translations" : [ {
+      "title" : "一般名詞",
+      "forms" : [ "場所", "場" ]
+    }, {
+      "title" : "一般名詞",
+      "forms" : [ "場所", "土地", "地所" ]
+    } ],
+    "tags" : [ "名詞", "T型" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2020:0712:"
+    }, {
+      "title" : "発音",
+      "text" : "alkon"
+    }, {
+      "title" : "語義",
+      "text" : "位置を表すのが中心語義だが，「人の所有する地」の意味でも使用する．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 73,
+      "form" : "obreh"
+    },
+    "translations" : [ {
+      "title" : "自動詞",
+      "forms" : [ "[主]が[所]に住む", "居住する", "暮らす" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2020:0712:"
+    }, {
+      "title" : "発音",
+      "text" : "obrɛx"
+    }, {
+      "title" : "語義",
+      "text" : "「[主]が[所]を拠点として生活する」のような意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 74,
+      "form" : "selva"
+    },
+    "translations" : [ {
+      "title" : "自動詞",
+      "forms" : [ "[主]が立つ", "立ち上がる" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2020:0715:"
+    }, {
+      "title" : "発音",
+      "text" : "zɛlva"
+    }, {
+      "title" : "語義",
+      "text" : "「座っている状態から立ち上がる動作をする」の意．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 75,
+        "form" : "zagon"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 75,
+      "form" : "zagon"
+    },
+    "translations" : [ {
+      "title" : "自動詞",
+      "forms" : [ "[主]が座る", "座り込む" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "2020:0715:"
+    }, {
+      "title" : "発音",
+      "text" : "t͡saɡon"
+    }, {
+      "title" : "語義",
+      "text" : "「立っている状態から座り込む」の意"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 74,
+        "form" : "selva"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pftcxkhmnrljwbvdsgiyuoea",
     "wordOrderType" : "CUSTOM",
     "punctuations" : [ ",", "、", "，" ],
+    "ignoredTranslationRegex" : "",
     "pronunciationTitle" : "発音",
     "plainInformationTitles" : [ ],
     "informationTitleOrder" : null,
+    "formFontFamily" : null,
     "defaultWord" : {
       "entry" : {
         "id" : -1,
