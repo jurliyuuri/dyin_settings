@@ -54,7 +54,7 @@
       <path
          transform="scale(1.1) rotate(180) translate(1,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ff0000;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#fc0000;stroke-opacity:1;fill:#fc0000;fill-opacity:1"
          id="path5122" />
     </marker>
     <marker
@@ -567,6 +567,36 @@
          transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5124-4"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5122-8"
+         style="fill:#fc0000;fill-opacity:1;fill-rule:evenodd;stroke:#fc0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5124-0-5-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5122-1-9-3"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      inkscape:snap-object-midpoints="true"
@@ -582,11 +612,11 @@
      inkscape:window-width="1366"
      units="px"
      showgrid="false"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer12"
      inkscape:document-units="px"
-     inkscape:cy="905.6774"
-     inkscape:cx="2982.375"
-     inkscape:zoom="4.0000001"
+     inkscape:cy="689.48043"
+     inkscape:cx="2789.1992"
+     inkscape:zoom="1.4142136"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1697,7 +1727,7 @@
          sodipodi:nodetypes="sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss" />
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="標高(見本)"
        id="layer10"
        inkscape:groupmode="layer">
@@ -1950,7 +1980,7 @@
   </g>
   <g
      sodipodi:insensitive="true"
-     style="display:inline"
+     style="display:none"
      inkscape:label="dyin区分"
      id="layer4"
      inkscape:groupmode="layer">
@@ -2137,7 +2167,7 @@
   </g>
   <g
      sodipodi:insensitive="true"
-     style="display:none"
+     style="display:inline"
      inkscape:label="緯度経度"
      id="layer3"
      inkscape:groupmode="layer">
@@ -2243,11 +2273,10 @@
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="その他メモ"
      id="layer12"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <g
        sodipodi:insensitive="true"
        style="display:none"
@@ -2258,25 +2287,26 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path5114"
-         d="m 2850,908 27,-75"
+         d="M 2888,948 2877,833"
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#fc0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5124)" />
       <text
          id="text5308"
-         y="948"
-         x="2822"
+         y="908.25"
+         x="2887.1875"
          style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           y="948"
-           x="2822"
+           y="908.25"
+           x="2887.1875"
            id="tspan5306"
-           sodipodi:role="line">ラッビヤ人の移動</tspan><tspan
-           id="tspan5370"
-           y="976.20355"
-           x="2822"
-           sodipodi:role="line">canis南部から陸経由</tspan><tspan
+           sodipodi:role="line"
+           dy="0 0 0 0 0 0 0 0 0 0">ラッビヤ・タフター人の移動</tspan><tspan
+           y="936.45355"
+           x="2887.1875"
+           sodipodi:role="line"
+           id="tspan2971">canis南部から陸経由?</tspan><tspan
            id="tspan8322"
-           y="1002.8702"
-           x="2822"
+           y="963.12018"
+           x="2887.1875"
            sodipodi:role="line" /></text>
       <path
          sodipodi:nodetypes="cc"
@@ -2306,17 +2336,17 @@
          style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5124-3)" />
       <text
          id="text5308-0"
-         y="650.93988"
-         x="3043.9739"
+         y="614.93988"
+         x="3135.9739"
          style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           y="650.93988"
-           x="3043.9739"
+           y="614.93988"
+           x="3135.9739"
            id="tspan5306-8"
            sodipodi:role="line">vic人の移動</tspan><tspan
            id="tspan8320"
-           y="679.14343"
-           x="3043.9739"
+           y="643.14343"
+           x="3135.9739"
            sodipodi:role="line">deixes東部から沿岸地帯経由</tspan></text>
       <ellipse
          ry="14.25"
@@ -2419,17 +2449,17 @@
            sodipodi:role="line">(p120,p170,p250)</tspan></text>
       <text
          id="text8328-4"
-         y="789.25"
-         x="2921.1875"
+         y="761.25"
+         x="2952.1875"
          style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan8355"
-           y="789.25"
-           x="2921.1875"
+           y="761.25"
+           x="2952.1875"
            sodipodi:role="line">ラッビヤ人の移住地範囲</tspan><tspan
            id="tspan8330-3"
-           y="815.91663"
-           x="2921.1875"
+           y="787.91663"
+           x="2952.1875"
            sodipodi:role="line">(p200,p250)</tspan></text>
       <text
          id="text8328-4-7"
@@ -2495,6 +2525,40 @@
          id="path8297-8"
          d="m 2722.9006,667.68658 c -7.5043,-1.94836 -21.5189,-5.50188 -22.3387,-20.36518 -0.7201,-13.05708 -4.6501,-21.34441 -0.039,-20.84335 9.0931,0.98805 8.3569,-3.59906 8.3569,-9.80885 0,-17.166 -6.2485,-9.9917 -17.1544,-20.8976 -5.1449,-5.14484 3.8755,-13.68488 15.774,-17.00099 12.339,-3.43891 29.2621,1.65131 36.5873,6.96919 9.8589,7.15725 11.7416,14.77357 17.9528,27.5797 7.5179,15.50009 16.8145,32.74132 7.9969,37.46327 -6.7028,3.58945 -0.061,8.64049 -4.2638,12.35216 -8.4364,7.45091 -20.9917,10.2326 -42.8722,4.55165 z"
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#fc0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5124-4)"
+         d="m 2887.1875,908.25 c -10.1595,-46.38855 36.2776,-3.46593 71.3873,-50.94519"
+         id="path5114-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="2677.5535"
+         y="1065.6514"
+         id="text5308-0-3-3-8"><tspan
+           sodipodi:role="line"
+           x="2677.5535"
+           y="1065.6514"
+           id="tspan8295-08-0"
+           style="font-size:21.3333px;line-height:116%">名もなき民族が</tspan><tspan
+           sodipodi:role="line"
+           x="2677.5535"
+           y="1092.8949"
+           style="font-size:21.3333px;line-height:116%"
+           id="tspan3117">内陸にいた可能性</tspan></text>
+      <path
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 2840.8797,931.87896 c -5.7902,5.15579 -9.0182,7.07038 -17.0751,-5.44665 -4.6712,-7.25692 7.7431,-7.59834 1.9541,-20.75271 -6.9145,-15.71182 -7.4667,-18.26979 -6.1943,-27.96866 0.9464,-7.21409 2.6292,-14.33947 7.9958,-19.82942 11.7736,-12.04399 21.2035,-1.66771 27.4764,4.85828 6.9437,7.22383 34.282,39.76331 18,48.04297 -20.2975,10.32161 -14.7312,5.58003 -32.1569,21.09619 z"
+         id="path8297-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssssss" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5124-0-5-9)"
+         d="m 2740.2522,1042.9646 c 33.382,-54.83077 71.2905,-33.7177 94.8804,-99.1098"
+         id="path5114-8-0-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
     </g>
     <g
        sodipodi:insensitive="true"
@@ -2550,10 +2614,11 @@
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff00f3;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="dyin外など"
        id="layer19"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
       <text
          id="text1631"
          y="860"
@@ -2600,33 +2665,44 @@
            sodipodi:role="line">自治政府</tspan></text>
       <text
          id="text1653"
-         y="908.25"
-         x="2887.1875"
+         y="996.25"
+         x="2859.1875"
          style="font-size:21.3333px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           y="908.25"
-           x="2887.1875"
+           y="996.25"
+           x="2859.1875"
            id="tspan1651"
            sodipodi:role="line">Xelken穏健派が</tspan><tspan
            id="tspan1655"
-           y="936.45355"
-           x="2887.1875"
+           y="1024.4536"
+           x="2859.1875"
            sodipodi:role="line">いるよ</tspan></text>
     </g>
+    <circle
+       r="6.6714287"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.392437;stroke-opacity:1"
+       id="path458"
+       cx="2777.7424"
+       cy="746.08478" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path1600-8-3-0"
+       d="m 2973.6,773.532 26.062,88.865"
+       style="display:inline;mix-blend-mode:normal;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.846552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
+     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="layer18"
      inkscape:label="写し図"
      transform="translate(0,1778.4504)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:none">
     <g
+       sodipodi:insensitive="true"
        inkscape:groupmode="layer"
        id="layer17"
        inkscape:label="写し図 2"
-       style="display:none"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <image
          sodipodi:absref="C:\Users\SKKTutcoder\Documents\settings\world\dyin\dyin外の国境.png"
          xlink:href="dyin%E5%A4%96%E3%81%AE%E5%9B%BD%E5%A2%83.png"
@@ -2638,7 +2714,7 @@
          id="image469" />
     </g>
     <g
-       style="display:none;mix-blend-mode:normal"
+       style="display:inline;mix-blend-mode:normal"
        inkscape:label="写し図 1"
        id="layer15"
        inkscape:groupmode="layer">
@@ -2701,6 +2777,7 @@
          x="2857.9255"
          style="font-style:normal;font-weight:normal;font-size:5.33333px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
+           dy="0 0 0 0"
            style="font-size:5.33333px"
            y="-1161.052"
            x="2857.9255"
