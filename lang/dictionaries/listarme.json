@@ -1,0 +1,1815 @@
+{
+  "words": [
+    {
+      "entry": {
+        "id": 1,
+        "form": "aroa"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "白"
+          ]
+        },
+        {
+          "title": "形容詞",
+          "forms": [
+            "白い"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 2,
+        "form": "huva"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "黒"
+          ]
+        },
+        {
+          "title": "形容詞",
+          "forms": [
+            "黒い"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 3,
+        "form": "derau"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "赤"
+          ]
+        },
+        {
+          "title": "形容詞",
+          "forms": [
+            "赤い"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 4,
+        "form": "mido"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "東"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 5,
+        "form": "bia"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "西"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 6,
+        "form": "juga"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "北"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 7,
+        "form": "maxo"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "南"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 8,
+        "form": "ceda"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "右"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 9,
+        "form": "nagi"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "左"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 10,
+        "form": "ajxa"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "太陽"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 11,
+        "form": "barde"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "父"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 12,
+        "form": "aba"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "父"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 13,
+        "form": "marde"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "母"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 14,
+        "form": "ema"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "母"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 15,
+        "form": "lomi"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "姉妹"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 16,
+        "form": "imeu"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "兄弟"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 17,
+        "form": "sesa"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "祖父"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 18,
+        "form": "veba"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "祖母"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 19,
+        "form": "koul"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "頭"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 20,
+        "form": "alto"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "目"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 21,
+        "form": "menu"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "耳"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 22,
+        "form": "mire"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "鼻"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 23,
+        "form": "dito"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "口"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 24,
+        "form": "kapo"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "首"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 25,
+        "form": "huno"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "胸"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 26,
+        "form": "bire"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "腕"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 27,
+        "form": "ekto"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "手"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 28,
+        "form": "ambi"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "足"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 29,
+        "form": "beria"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "街"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 30,
+        "form": "mene"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "朝"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 31,
+        "form": "sine"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "夜"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 32,
+        "form": "urga"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "火"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 33,
+        "form": "agun"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "水"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 34,
+        "form": "juni"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "海"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 35,
+        "form": "julma"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "草原"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 36,
+        "form": "cuzo"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "川"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 37,
+        "form": "biso"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "男"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 38,
+        "form": "nomo"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "女"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 39,
+        "form": "pori"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "小さい"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 40,
+        "form": "gido"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "大きい"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 41,
+        "form": "beso"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "長い"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 42,
+        "form": "txabi"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "短い"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 43,
+        "form": "varo"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "高い"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 44,
+        "form": "xoba"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "低い"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 45,
+        "form": "lona"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "良い"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 46,
+        "form": "nes"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "悪い"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 47,
+        "form": "altean"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "賢い"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 48,
+        "form": "saj"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "ある・である"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [
+        {
+          "title": "現在形",
+          "form": "eu"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 49,
+        "form": "og"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "来る"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 50,
+        "form": "el"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "行く"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 51,
+        "form": "urt"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "する"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 52,
+        "form": "id"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "食べる"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 53,
+        "form": "epok"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "飲む"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 54,
+        "form": "ezol"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "座る"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 55,
+        "form": "ol"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "言う"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 56,
+        "form": "mekxaj"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "話す"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 57,
+        "form": "edim"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "死ぬ"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 58,
+        "form": "locaj"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "歌う"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 59,
+        "form": "koraj"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "歩く"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 60,
+        "form": "elov"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "走る"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 61,
+        "form": "umic"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "泳ぐ"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 62,
+        "form": "orh"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "乗る"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 63,
+        "form": "igim"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "入る"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 64,
+        "form": "ehav"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "出る"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 65,
+        "form": "ebir"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "盗む"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 66,
+        "form": "elg"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "買う"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 67,
+        "form": "ok"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "与える"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 68,
+        "form": "amelaj"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "始める"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 69,
+        "form": "izej"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "終える"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 70,
+        "form": "or"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "得る"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 71,
+        "form": "erk"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "売る"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 72,
+        "form": "iraj"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "見る"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 73,
+        "form": "uper"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "聞く"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 74,
+        "form": "armuk"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "考える"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 75,
+        "form": "ivac"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "知る"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 76,
+        "form": "ga"
+      },
+      "translations": [
+        {
+          "title": "接続詞",
+          "forms": [
+            "と"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 77,
+        "form": "bin"
+      },
+      "translations": [
+        {
+          "title": "接続詞",
+          "forms": [
+            "しかし"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 78,
+        "form": "bo"
+      },
+      "translations": [
+        {
+          "title": "助詞",
+          "forms": [
+            "も"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 79,
+        "form": "ano"
+      },
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": [
+            "私"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 80,
+        "form": "le"
+      },
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": [
+            "あなた"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 81,
+        "form": "na"
+      },
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": [
+            "彼"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 82,
+        "form": "bea"
+      },
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": [
+            "私達(除外)"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 83,
+        "form": "tem"
+      },
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": [
+            "私達(包括)"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 84,
+        "form": "nax"
+      },
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": [
+            "彼等"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 85,
+        "form": "ilux"
+      },
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": [
+            "君達"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 86,
+        "form": "xune"
+      },
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": [
+            "何"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 87,
+        "form": "eri"
+      },
+      "translations": [
+        {
+          "title": "数詞",
+          "forms": [
+            "1"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 88,
+        "form": "aku"
+      },
+      "translations": [
+        {
+          "title": "数詞",
+          "forms": [
+            "2"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 89,
+        "form": "nil"
+      },
+      "translations": [
+        {
+          "title": "数詞",
+          "forms": [
+            "3"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 90,
+        "form": "vor"
+      },
+      "translations": [
+        {
+          "title": "数詞",
+          "forms": [
+            "4"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 91,
+        "form": "ux"
+      },
+      "translations": [
+        {
+          "title": "数詞",
+          "forms": [
+            "5"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 92,
+        "form": "ber"
+      },
+      "translations": [
+        {
+          "title": "数詞",
+          "forms": [
+            "6"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 93,
+        "form": "leuha"
+      },
+      "translations": [
+        {
+          "title": "数詞",
+          "forms": [
+            "7"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 94,
+        "form": "mebi"
+      },
+      "translations": [
+        {
+          "title": "数詞",
+          "forms": [
+            "9"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 95,
+        "form": "ogun"
+      },
+      "translations": [
+        {
+          "title": "数詞",
+          "forms": [
+            "9"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 96,
+        "form": "veti"
+      },
+      "translations": [
+        {
+          "title": "数詞",
+          "forms": [
+            "10"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 97,
+        "form": "om"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "大地，土"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 98,
+        "form": "edv"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "溶ける",
+            "溶かす"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    }
+  ],
+  "zpdic": {
+    "alphabetOrder": "",
+    "alphabetOrderType": "UNICODE",
+    "punctuations": [
+      ",",
+      "、"
+    ],
+    "pronunciationTitle": "発音",
+    "plainInformationTitles": [],
+    "informationTitleOrder": null,
+    "defaultWord": {
+      "entry": {
+        "id": -1,
+        "form": ""
+      },
+      "translations": [],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    }
+  },
+  "snoj": "@FALL_THROUGH\n\nPUNCTUATION = \".\" | \",\" | \"!\" | \"?\";\nvowel = \"a\" | \"e\" | \"i\" | \"o\" | \"u\" | \"y\";\ndiphthong = \"ai\" | \"au\" | \"ei\" | \"eu\" | \"oi\" | \"ou\";\nconsonant = \"p\" | \"b\" | \"t\" | \"d\" | \"k\" | \"g\" | \"v\" | \"c\" | \"s\" | \"x\" | \"dz\" | \"j\" | \"h\" | \"z\" | \"ds\" | \"tx\" | \"ddz\" | \"m\" | \"n\" | \"r\" | \"l\";\n\n\"hi\" -> /çi/;\n^ \"\" (vowel | diphthong) -> /ʔ/ $;\n\n\"ddz\" -> /d͡ʒ/;\n\n\"ai\" -> /ai̯/;\n\"au\" -> /au̯/;\n\"ei\" -> /eɪ̯/;\n\"eu\" -> /eu̯/;\n\"oi\" -> /oi̯/;\n\"ou\" -> /ou̯/;\n\n\"v\" -> /w/;\n\"y\" -> /ə/;\n\n\"dz\" -> /ʒ/;\n\"ds\" -> /d͡z/;\n\"tx\" -> /t͡ʃ/;\n\n\"c\" -> /s/;\n\"s\" -> /z/;\n\"x\" -> /ʃ/;\n\"h\" -> /x/;\n\"z\" -> /t͡s/;\n\"r\" -> /ɾ/;"
+}
